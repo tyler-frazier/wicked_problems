@@ -32,6 +32,12 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
+        <footer class="site-footer">
+        {% if site.github.is_project_page %}
+            <span class="site-footer-owner">This site is maintained by <a href = "mailto: tjfrazier@wm.edu">Tyler Frazier</a>.</span>
+        {% endif %}
+            <span class="site-footer-credits">Under association with <a href="https://wm.edu">William & Mary</a>.</span>
+        </footer>
 
     </main>
   </body>
