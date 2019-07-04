@@ -12,6 +12,6 @@ item
 
 item
 
-<a href = "https://geospatial-human-development-pro.gitbook.io/geodatasci/">Geospatial Data Science with R</a>  
+<a href = "https://tyzao.gitbook.io/geodatasci/">Geospatial Data Science with R</a>  
 
 
