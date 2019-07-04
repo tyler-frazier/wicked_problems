@@ -12,6 +12,6 @@ item
 
 item
 
-<a href = "https://tyler-j-frazier.gitbook.io/test-book/">Test Book</a>  
+<a href = "https://tyzao.gitbook.io/geodatasci/">Geospatial Data Science with R</a>  
 
 
