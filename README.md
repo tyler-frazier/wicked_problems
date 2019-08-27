@@ -42,7 +42,7 @@ I am committed to the principle of universal learning. This means that our class
 ### Semester Schedule
 
 Week 1 (August 28)
-Introductions
+- Introductions
 
 Week 2 (September 2)
 
@@ -71,13 +71,13 @@ Week 13
 Week 14
 
 Week 15
-Final Group Projects
- - Monday - 2 groups
- - Wednesday - 2 groups
- - Friday - 1 group
+- Final Group Projects
+  - Monday - 2 groups
+  - Wednesday - 2 groups
+  - Friday - 1 group
 
 Final Individual Project
-Due Wednesday December 18th by 5PM
+- Due Wednesday December 18th by 5PM
 
 
 <a href = "https://tyzao.gitbook.io/geodatasci/">Investigating Geospatial Human Development Processes with R</a>  
