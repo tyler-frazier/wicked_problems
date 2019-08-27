@@ -125,19 +125,24 @@ Week 11 (Nov 4)
 - Project 3 Due: Saturday Midnight
 
 Week 12 (Nov 11)
-- Project 4
+- Monday: Open discussion; begin Project 4
+- Wednesday: Continue Project 4
+- Friday: Continue Project 4
 
 Week 13 (Nov 18)
-- Project 4
+- Monday: Open discussion; continue Project 4
+- Wednesday: Continue Project 4
+- Friday: Continue Project 4
 
 Week 14 (Nov 25)
-- Project 4
+- Monday: Continue Project 4
+- Project 4 Due: Tuesday Noon 
 - Wednesday & Friday: No Class (Thanksgiving)
 
 Week 15 (Dec 2)
 - Presentation of Group Projects
-  - Monday - 2 groups
-  - Wednesday - 2 groups
+  - Monday: Group Meeting and Planning
+  - Wednesday - 3 groups
   - Friday - 2 groups
 
 Final (Due December 18th by 5PM)
