@@ -137,22 +137,24 @@ Week 11 (Nov 4)
 Week 12 (Nov 11)
 - Monday: geospatial human development data; begin Project 4
   - <a href = "https://dhsprogram.com"> DHS</a>
-- Wednesday: Continue Project 4
-- Friday: Continue Project 4
+- Wednesday: continue Project 4
+- Friday: continue Project 4
 
 Week 13 (Nov 18)
-- Monday: Open discussion; continue Project 4
-- Wednesday: Continue Project 4
-- Friday: Continue Project 4
+- Monday: open discussion; continue Project 4
+  - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
+- Wednesday: continue Project 4
+- Friday: continue Project 4
 
 Week 14 (Nov 25)
-- Monday: Continue Project 4
+- Monday: open discussion; continue Project 4
+  - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Creating Spatial Interpolation Surfaces with DHS Data</a> (Utazi et al.)
 - Project 4 Due: Tuesday Noon 
 - Wednesday & Friday: No Class (Thanksgiving)
 
 Week 15 (Dec 2)
 - Presentation of Group Projects
-  - Monday: Group Meeting and Planning
+  - Monday: group meeting and planning
   - Wednesday - 3 groups
   - Friday - 2 groups
 
