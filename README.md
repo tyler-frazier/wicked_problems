@@ -53,13 +53,13 @@ Week 1 (Aug 28)
 
 Week 2 (Sept 2)
 - Monday: Open discussion; Workshop
- - <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use of big data for development</a> (Blumenstock)
+  - <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use of big data for development</a> (Blumenstock)
 - Wednesday: Open discussion; Workshop
- - <a href = "https://peerj.com/preprints/27127.pdf">A Brief Introduction to
+  - <a href = "https://peerj.com/preprints/27127.pdf">A Brief Introduction to
 Open Data, Open Source Software and Collective Intelligence for Environmental Data Creators and Users</a> (Hengl, Wheeler and MacMillan)
 - Friday:  Open discussion; Workshop
- - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
- - add/drop period ends
+  - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
+  - add/drop period ends
 
 Week 3 (Sept 9)
 
