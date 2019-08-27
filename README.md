@@ -44,38 +44,41 @@ I am committed to the principle of universal learning. This means that our class
 ## Grading Opportunities
 
 
-### Semester Schedule
+## Semester Schedule
 
-Week 1 (August 28)
+Week 1 (Aug 28)
 - Introductions
 
-Week 2 (September 2)
+Week 2 (Sept 2)
+- Sept 6: add/drop period ends
 
-Week 3
+Week 3 (Sept 9)
 
-Week 4
+Week 4 (Sept 16)
 
-Week 5
+Week 5 (Sept 23)
 
-Week 6
+Week 6 (Sept 30)
 
-Week 7
+Week 7 (Oct 7)
 
-Week 8
+Week 8 (Oct 14)
+- Monday No Class: Fall Break
 
-Week 9
+Week 9 (Oct 21)
 
-Week 10
+Week 10 (Oct 28)
 
-Week 11
+Week 11 (Nov 4)
 
-Week 12
+Week 12 (Nov 11)
 
-Week 13
+Week 13 (Nov 18)
 
-Week 14
+Week 14 (Nov 25)
+- Wednesday & Friday No Class: Thanksgiving
 
-Week 15
+Week 15 (Dec 2)
 - Presentation of Group Projects
   - Monday - 2 groups
   - Wednesday - 2 groups
