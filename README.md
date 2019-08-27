@@ -63,17 +63,18 @@ Week 2 (Sept 2)
 - Wednesday: Open discussion; Workshop
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
 - Friday:  Open discussion; Workshop
-  - <a href = "https://peerj.com/preprints/27127.pdf">A Brief Introduction to
-Open Data, Open Source Software and Collective Intelligence for Environmental Data Creators and Users</a> (Hengl, Wheeler and MacMillan) _focus on pages 8 through 32_
+  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
+in the absence of national population and housing census data</a> (Wardrop et al.)
   - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
   - add/drop period ends
 
 Week 3 (Sept 9) 
-- Monday: Begin Project 1
-- Wednesday: Continue Project 1
-- Friday: Open Discussion
-  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
-in the absence of national population and housing census data</a> (Wardrop et al.)
+- Monday: Open discussion; Begin Project 1
+  - <a href = "https://www.nature.com/articles/sdata20174" WorldPop, open data for spatial demography</a> (Tatem)
+- Wednesday: Open discussion; Continue Project 1
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/" High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta, and Tatem)
+- Friday: Group Check-ins
+  
 
 Week 4 (Sept 16)
 - Monday: Continue Project 1
