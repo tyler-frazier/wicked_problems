@@ -53,7 +53,7 @@ Week 1 (Aug 28)
 
 Week 2 (Sept 2)
 - Getting Started with R-Studio
-- Sept 6: add/drop period ends
+- Friday: add/drop period ends
 
 Week 3 (Sept 9)
 
@@ -66,7 +66,7 @@ Week 6 (Sept 30)
 Week 7 (Oct 7)
 
 Week 8 (Oct 14)
-- Monday, No Class: Fall Break
+- Monday: No Class (Fall Break)
 
 Week 9 (Oct 21)
 
@@ -79,7 +79,7 @@ Week 12 (Nov 11)
 Week 13 (Nov 18)
 
 Week 14 (Nov 25)
-- Wednesday & Friday, No Class: Thanksgiving
+- Wednesday & Friday: No Class (Thanksgiving)
 
 Week 15 (Dec 2)
 - Presentation of Group Projects
