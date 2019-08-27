@@ -76,7 +76,7 @@ Week 3 (Sept 9)
   - <a href = "https://www.gadm.org"> GADM</a>
   - <a href = "https://data.humdata.org"> HDX</a>
   
-- Wednesday: Continue Project 1
+- Wednesday: continue Project 1
 - Friday: group check-ins
 
 Week 4 (Sept 16)
