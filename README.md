@@ -48,8 +48,11 @@ I am committed to the principle of universal learning. This means that our class
 
 Week 1 (Aug 28)
 - Introductions
+- Syllabus
+- Slack
 
 Week 2 (Sept 2)
+- Getting Started with R-Studio
 - Sept 6: add/drop period ends
 
 Week 3 (Sept 9)
@@ -63,7 +66,7 @@ Week 6 (Sept 30)
 Week 7 (Oct 7)
 
 Week 8 (Oct 14)
-- Monday No Class: Fall Break
+- Monday, No Class: Fall Break
 
 Week 9 (Oct 21)
 
@@ -76,13 +79,13 @@ Week 12 (Nov 11)
 Week 13 (Nov 18)
 
 Week 14 (Nov 25)
-- Wednesday & Friday No Class: Thanksgiving
+- Wednesday & Friday, No Class: Thanksgiving
 
 Week 15 (Dec 2)
 - Presentation of Group Projects
   - Monday - 2 groups
   - Wednesday - 2 groups
-  - Friday - 1 group
+  - Friday - 2 groups
 
 Final (Due December 18th by 5PM)
 - Individual Project
