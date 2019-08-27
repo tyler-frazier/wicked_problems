@@ -35,6 +35,11 @@ I am committed to the principle of universal learning. This means that our class
 | below average D+ = 69. ̄9 ≥ 67.0 |  poor D = 66. ̄9 ≥ 63.0 |  very poor D- = 62. ̄9 ≥ 60.0 |
 | failing F < 60.0 |
 
+## Instructional Material and Mediums
+
+<a href = "https://tyzao.gitbook.io/geodatasci/">Investigating Geospatial Human Development Processes with R</a>
+
+<a href = "https://join.slack.com/t/wmdsi/shared_invite/enQtNjUwNTIwMTk1MzYwLTkzZjEzYmQ5NmVjMjUxNDUyMjRiODlkMDZmNTQzYmVkMjZlMTU3NTEzYWY2MjM0MmU5MmU5YjJiNTcyMjJiYmM"> William & Mary Data Science Team Slack Chat</a>
 
 ## Grading Opportunities
 
@@ -80,6 +85,6 @@ Final (Due December 18th by 5PM)
 - Individual Project
 
 
-<a href = "https://tyzao.gitbook.io/geodatasci/">Investigating Geospatial Human Development Processes with R</a>  
+
 
 
