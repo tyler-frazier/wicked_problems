@@ -126,6 +126,7 @@ Week 11 (Nov 4)
 
 Week 12 (Nov 11)
 - Monday: Open discussion; begin Project 4
+  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Wednesday: Continue Project 4
 - Friday: Continue Project 4
 
