@@ -45,7 +45,7 @@ I am committed to the principle of universal learning. This means that our class
 
 |    |    |    |
 | --- | --- | --- |
-| Class Participation | 20% | Individually graded, twice per semester |
+| Class & Group Participation | 20% | Individually graded, twice per semester |
 | Three Informal Group Presentations | 10% | 10 minutes per group, on Fridays during weeks 5, 8 & 11 |
 | Four Individual Projects | 40% | 3 weeks per project, deliverables submitted at the end of weeks 5, 8, 11 & 14 |
 | Final Group Presentation | 10% | 2 groups per day, week 15 |
