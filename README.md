@@ -61,29 +61,29 @@ Week 1 (Aug 28)
 - Slack
 
 Week 2 (Sept 2)
-- Monday: Open discussion; workshop
+- Monday: open discussion; workshop
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use of big data for development</a> (Blumenstock)
-- Wednesday: Open discussion; workshop
+- Wednesday: open discussion; workshop
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
-- Friday:  Open discussion; workshop
+- Friday:  open discussion; workshop
   - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
   - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
   - add/drop period ends
 
 Week 3 (Sept 9) 
-- Monday: Geospatial, development data discovery; begin Project 1
+- Monday: geospatial human development data; begin Project 1
   - <a href = "https://www.worldpop.org/"> WorldPop</a>
   - <a href = "https://www.gadm.org"> GADM</a>
   - <a href = "https://data.humdata.org"> HDX</a>
   
 - Wednesday: Continue Project 1
-- Friday: Group Check-ins
+- Friday: group Check-ins
 
 Week 4 (Sept 16)
-- Monday: Open discussion; continue Project 1 
+- Monday: open discussion; continue Project 1 
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
-- Wednesday: Continue Project 1
-- Friday: Group Check-ins
+- Wednesday: continue Project 1
+- Friday: group Check-ins
 
 Week 5 (Sept 23)
 - Monday: Open discussion, continue Project 1
@@ -94,38 +94,40 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Project 1 Due: Saturday Midnight
 
 Week 6 (Sept 30)
-- Monday: Open discussion; begin Project 2
-  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
+- Monday: geospatial human development data; begin Project 2
+  - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
+  - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
 - Wednesday: Continue Project 2
 - Friday: Group Check-ins
 
 Week 7 (Oct 7)
-- Monday: Continue Project 2
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
+- Monday: open discussion, continue Project 2
+  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
 - Wednesday: Continue Project 2
 - Friday: Group Check-ins
 
 Week 8 (Oct 14)
 - Monday: No Class (Fall Break)
-- Wednesday: Continue Project 2
+- Wednesday: open discussion, continue Project 2
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
 - Friday: Informal Group Presentations
 - Project 2 Due: Saturday Midnight
 
 Week 9 (Oct 21)
-- Monday: Open discussion; begin Project 3
+- Monday: open discussion; begin Project 3
   - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
- - Wednesday: Continue Project 2
- - Friday: Group Check-ins
+ - Wednesday: continue project 3
+ - Friday: group check-ins
 
 Week 10 (Oct 28)
-- Monday: Open discussion; continue Project 3
+- Monday: open discussion; continue Project 3
   - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
- - Wednesday: Continue Project 2
- - Friday: Group Check-ins
+ - Wednesday: continue Project 3
+ - Friday: group check-ins
 
 Week 11 (Nov 4)
-- Monday: Continue Project 3
-- Wednesday: Continue Project 3
+- Monday: continue project 3
+- Wednesday: continue project 3
 - Friday: Informal Group Presentations
 - Project 3 Due: Saturday Midnight
 
