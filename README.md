@@ -72,15 +72,14 @@ in the absence of national population and housing census data</a> (Wardrop et al
 Week 3 (Sept 9) 
 - Monday: Open discussion; Begin Project 1
   - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
-- Wednesday: Open discussion; Continue Project 1
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta, and Tatem)
+- Wednesday: Continue Project 1
 - Friday: Group Check-ins
-  
 
 Week 4 (Sept 16)
-- Monday: Continue Project 1
+- Monday: Open discussion; Continue Project 1 
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta, and Tatem)
 - Wednesday: Continue Project 1
-- Friday: Open Discussion
+- Friday: Group Check-ins
 
 Week 5 (Sept 23)
 - Monday: Continue Project 1
