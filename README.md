@@ -69,14 +69,22 @@ Open Data, Open Source Software and Collective Intelligence for Environmental Da
   - add/drop period ends
 
 Week 3 (Sept 9) 
-- Project 1
+- Monday: Begin Project 1
+- Wednesday: Continue Project 1
+- Friday: Open Discussion
+  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
+in the absence of national population and housing census data</a> (Wardrop et al.)
 
 Week 4 (Sept 16)
-- Project 1
+- Monday: Continue Project 1
+- Wednesday: Continue Project 1
+- Friday: Open Discussion
 
 Week 5 (Sept 23)
-- Project 1
+- Monday: Continue Project 1
+- Wednesday: Continue Project 1
 - Friday Groupies
+- Project 1 Due Saturday Midnight
 
 Week 6 (Sept 30)
 - Project 2
