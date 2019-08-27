@@ -25,6 +25,39 @@ William & Mary accommodates students with disabilities in accordance with federa
 
 I am committed to the principle of universal learning. This means that our classroom, our virtual spaces, our practices, and our interactions be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning. Active, thoughtful, and respectful participation in all aspects of the course will make our time together as productive and engaging as possible.
 
+## Grade Categories
+
+exceptional A=100≥ 97.0
+
+excellent A=96. ̄9 ≥93.0
+
+superior A- = 92. ̄9 ≥ 90.0
+
+very good B+ = 89. ̄9 ≥ 87.0
+
+good B = 86. ̄9 ≥ 83.0
+
+above average B- = 82. ̄9 ≥ 80.0
+
+normal C+ = 79. ̄9 ≥ 77.0
+
+average C = 76. ̄9 ≥ 73.0
+
+sub par C- = 72. ̄9 ≥ 70.0
+
+below average D+ = 69. ̄9 ≥ 67.0
+
+poor D = 66. ̄9 ≥ 63.0
+
+very poor D- = 62. ̄9 ≥ 60.0
+
+failing F < 60.0
+
+
+
+
+
+
 
 
 <a href = "https://tyzao.gitbook.io/geodatasci/">Investigating Geospatial Human Development Processes with R</a>  
