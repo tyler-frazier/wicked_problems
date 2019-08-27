@@ -52,7 +52,11 @@ Week 1 (Aug 28)
 - Slack
 
 Week 2 (Sept 2)
-- Getting Started with R-Studio
+- Open discussion
+ - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a>
+ - <a href = "https://peerj.com/preprints/27127.pdf">A Brief Introduction to
+Open Data, Open Source Software and Collective Intelligence for Environmental Data Creators and Users</a> (Hengl, Wheeler and MacMillan)
+- Workshop
 - Friday: add/drop period ends
 
 Week 3 (Sept 9)
