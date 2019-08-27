@@ -89,7 +89,7 @@ Week 5 (Sept 23)
 
 Week 6 (Sept 30)
 - Monday: Open discussion; begin Project 2
-  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+
 - Wednesday: Continue Project 2
 - Friday: Group Check-ins
 
@@ -105,14 +105,22 @@ Week 8 (Oct 14)
 - Project 2 Due: Saturday Midnight
 
 Week 9 (Oct 21)
-- Project 3
+- Monday: Open discussion; begin Project 3
+  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+ - Wednesday: Continue Project 2
+ - Friday: Group Check-ins
 
 Week 10 (Oct 28)
-- Project 3
+- Monday: Open discussion; continue Project 3
+  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
+ - Wednesday: Continue Project 2
+ - Friday: Group Check-ins
 
 Week 11 (Nov 4)
-- Project 3
+- Monday: Continue Project 3
+- Wednesday: Continue Project 3
 - Friday: Informal Group Presentations
+- Project 3 Due: Saturday Midnight
 
 Week 12 (Nov 11)
 - Project 4
