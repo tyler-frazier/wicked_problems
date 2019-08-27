@@ -4,9 +4,13 @@ Global, near present-time, high-resolution data is openly accessible to construc
 
 ## Goals and Objectives:
 To introduce students to human development as the ability to enlarge people’s choices, ca- pabilities and freedoms and as an emergent property from society functioning as a complex adaptive social and economic system.
+
 To introduce students to data science through understanding previously computationally in- tractable, wicked problems.
+
 To demonstrate competent information literacy and data science skills by producing knowledge from data through the creation of plots, graphs, charts and maps.
+
 To demonstrate competent application of fundamental computer science and statistics meth- ods within the context of geospatial human development processes.
+
 To challenge students to become apprentice scholars by supporting their answer to a formulated central research question with close-to-reality geospatial descriptions of human development processes.
 
 ### a
