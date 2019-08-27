@@ -43,12 +43,12 @@ I am committed to the principle of universal learning. This means that our class
 
 ## Grading Opportunities
 
-|    |    | 
-| --- | --- |
-| Informal Group Presentations | 10% |
-| Four Individual Projects | 60% |
-| Final Group Presentation | 10% |
-| Final Individual Project | 20% |
+|    |    |    |
+| --- | --- | --- |
+| Three Informal Group Presentations | 10% | 10 minutes per group, on Fridays during weeks 5, 8 & 11 |
+| Four Individual Project Deliverables | 60% | 3 weeks per project, deliverables submitted at the end of weeks 5, 8, 11 & 14 |
+| Final Group Presentation | 10% | 2 groups per day, week 15 |
+| Final Individual Project | 20% | due by 5PM last day of Exam Days |
 
 ## Semester Schedule
 
