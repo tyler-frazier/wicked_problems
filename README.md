@@ -27,7 +27,7 @@ I am committed to the principle of universal learning. This means that our class
 
 ## Grade Categories
 
-| exceptional | excellent | superior |
+| exceptional    | excellent         | superior           |
 | A = 100 ≥ 97.0 |  A = 96. ̄9 ≥ 93.0 |  A- = 92. ̄9 ≥ 90.0 |
 | -------------- | ----------------- | ------------------ |
 
