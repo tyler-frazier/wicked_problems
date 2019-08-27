@@ -91,7 +91,7 @@ Week 5 (Sept 23)
 
 Week 6 (Sept 30)
 - Monday: Open discussion; begin Project 2
-  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data (Stevens, Gaughan, Linard & Tatem)
+  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
 - Wednesday: Continue Project 2
 - Friday: Group Check-ins
 
