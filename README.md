@@ -86,10 +86,10 @@ Week 4 (Sept 16)
 - Friday: group check-ins
 
 Week 5 (Sept 23)
-- Monday: Open discussion, continue Project 1
+- Monday: open discussion, continue Project 1
   - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)
-- Wednesday: Continue Project 1
+- Wednesday: continue Project 1
 - Friday: Informal Group Presentations
 - Project 1 Due: Saturday Midnight
 
@@ -97,7 +97,7 @@ Week 6 (Sept 30)
 - Monday: geospatial human development data; begin Project 2
   - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
   - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
-- Wednesday: Continue Project 2
+- Wednesday: continue Project 2
 - Friday: group check-ins
 
 Week 7 (Oct 7)
