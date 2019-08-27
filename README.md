@@ -72,9 +72,9 @@ Week 14
 
 Week 15
 Final Group Projects
-Monday - 2 groups
-Wednesday - 2 groups
-Friday - 1 group
+ - Monday - 2 groups
+ - Wednesday - 2 groups
+ - Friday - 1 group
 
 Final Individual Project
 Due Wednesday December 18th by 5PM
