@@ -71,20 +71,24 @@ Week 2 (Sept 2)
   - add/drop period ends
 
 Week 3 (Sept 9) 
-- Monday: Open discussion; begin Project 1
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
+- Monday: Geospatial, development data discovery; begin Project 1
+  - <a href = "https://www.worldpop.org/"> WorldPop</a>
+  - <a href = "https://www.gadm.org"> GADM</a>
+  - <a href = "https://data.humdata.org"> HDX</a>
+  
 - Wednesday: Continue Project 1
 - Friday: Group Check-ins
 
 Week 4 (Sept 16)
 - Monday: Open discussion; continue Project 1 
-  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
-in the absence of national population and housing census data</a> (Wardrop et al.)
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
 - Wednesday: Continue Project 1
 - Friday: Group Check-ins
 
 Week 5 (Sept 23)
-- Monday: Continue Project 1
+- Monday: Open discussion, continue Project 1
+  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
+in the absence of national population and housing census data</a> (Wardrop et al.)
 - Wednesday: Continue Project 1
 - Friday: Informal Group Presentations
 - Project 1 Due: Saturday Midnight
