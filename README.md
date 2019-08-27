@@ -69,14 +69,14 @@ Week 2 (Sept 2)
   - add/drop period ends
 
 Week 3 (Sept 9) 
-- Monday: Open discussion; Begin Project 1
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta, and Tatem)
+- Monday: Open discussion; begin Project 1
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
 - Wednesday: Continue Project 1
 - Friday: Group Check-ins
 
 Week 4 (Sept 16)
-- Monday: Open discussion; Continue Project 1 
-  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf">Spatially disaggregated population estimates
+- Monday: Open discussion; continue Project 1 
+  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)
 - Wednesday: Continue Project 1
 - Friday: Group Check-ins
@@ -84,11 +84,13 @@ in the absence of national population and housing census data</a> (Wardrop et al
 Week 5 (Sept 23)
 - Monday: Continue Project 1
 - Wednesday: Continue Project 1
-- Friday Informal Group Presentations
+- Friday: Informal Group Presentations
 - Project 1 Due: Saturday Midnight
 
 Week 6 (Sept 30)
-- Project 2
+- Monday: Open discussion; begin Project 2
+  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+)
 
 Week 7 (Oct 7)
 - Project 2
@@ -96,7 +98,7 @@ Week 7 (Oct 7)
 Week 8 (Oct 14)
 - Project 2
 - Monday: No Class (Fall Break)
-- Friday Groupies
+- Friday: Informal Group Presentations
 
 Week 9 (Oct 21)
 - Project 3
@@ -106,7 +108,7 @@ Week 10 (Oct 28)
 
 Week 11 (Nov 4)
 - Project 3
-- Friday Groupies
+- Friday: Informal Group Presentations
 
 Week 12 (Nov 11)
 - Project 4
