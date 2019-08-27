@@ -35,7 +35,7 @@ I am committed to the principle of universal learning. This means that our class
 | below average D+ = 69. ̄9 ≥ 67.0 |  poor D = 66. ̄9 ≥ 63.0 |  very poor D- = 62. ̄9 ≥ 60.0 |
 | failing F < 60.0 |
 
-$\bar{a}$
+$ \bar{a} $
 
 \bar{a}
 
