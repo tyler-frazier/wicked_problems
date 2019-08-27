@@ -91,12 +91,13 @@ Week 5 (Sept 23)
 
 Week 6 (Sept 30)
 - Monday: Open discussion; begin Project 2
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
+  - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data (Stevens, Gaughan, Linard & Tatem)
 - Wednesday: Continue Project 2
 - Friday: Group Check-ins
 
 Week 7 (Oct 7)
 - Monday: Continue Project 2
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
 - Wednesday: Continue Project 2
 - Friday: Group Check-ins
 
