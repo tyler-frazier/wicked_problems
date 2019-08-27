@@ -90,15 +90,19 @@ Week 5 (Sept 23)
 Week 6 (Sept 30)
 - Monday: Open discussion; begin Project 2
   - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
-)
+- Wednesday: Continue Project 2
+- Friday: Group Check-ins
 
 Week 7 (Oct 7)
-- Project 2
+- Monday: Continue Project 2
+- Wednesday: Continue Project 2
+- Friday: Group Check-ins
 
 Week 8 (Oct 14)
-- Project 2
 - Monday: No Class (Fall Break)
+- Wednesday: Continue Project 2
 - Friday: Informal Group Presentations
+- Project 2 Due: Saturday Midnight
 
 Week 9 (Oct 21)
 - Project 3
