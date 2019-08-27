@@ -42,10 +42,10 @@ I am committed to the principle of universal learning. This means that our class
 <a href = "https://join.slack.com/t/wmdsi/shared_invite/enQtNjUwNTIwMTk1MzYwLTkzZjEzYmQ5NmVjMjUxNDUyMjRiODlkMDZmNTQzYmVkMjZlMTU3NTEzYWY2MjM0MmU5MmU5YjJiNTcyMjJiYmM"> William & Mary Data Science Team Slack Chat</a>
 
 ## Grading Opportunities
-Informal Group Presentations - 10%
-Four Individual Projects - 60%
-Final Group Presentation - 10%
-Final Individual Project - 20%
+- Informal Group Presentations: 10%
+- Four Individual Projects: 60%
+- Final Group Presentation: 10%
+- Final Individual Project: 20%
 
 ## Semester Schedule
 
