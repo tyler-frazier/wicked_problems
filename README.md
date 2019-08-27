@@ -77,13 +77,13 @@ Week 3 (Sept 9)
   - <a href = "https://data.humdata.org"> HDX</a>
   
 - Wednesday: Continue Project 1
-- Friday: group Check-ins
+- Friday: group check-ins
 
 Week 4 (Sept 16)
 - Monday: open discussion; continue Project 1 
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
 - Wednesday: continue Project 1
-- Friday: group Check-ins
+- Friday: group check-ins
 
 Week 5 (Sept 23)
 - Monday: Open discussion, continue Project 1
@@ -98,13 +98,13 @@ Week 6 (Sept 30)
   - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
   - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
 - Wednesday: Continue Project 2
-- Friday: Group Check-ins
+- Friday: group check-ins
 
 Week 7 (Oct 7)
 - Monday: open discussion, continue Project 2
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
-- Wednesday: Continue Project 2
-- Friday: Group Check-ins
+- Wednesday: continue Project 2
+- Friday: group check-ins
 
 Week 8 (Oct 14)
 - Monday: No Class (Fall Break)
@@ -114,10 +114,12 @@ Week 8 (Oct 14)
 - Project 2 Due: Saturday Midnight
 
 Week 9 (Oct 21)
-- Monday: open discussion; begin Project 3
+- Monday: geospatial human development data; open discussion; begin Project 3
+  - <a href = "https://www.openstreetmap.org/"> OSM</a>
+  - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
   - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
- - Wednesday: continue project 3
- - Friday: group check-ins
+- Wednesday: continue project 3
+- Friday: group check-ins
 
 Week 10 (Oct 28)
 - Monday: open discussion; continue Project 3
@@ -127,13 +129,14 @@ Week 10 (Oct 28)
 
 Week 11 (Nov 4)
 - Monday: continue project 3
+  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Wednesday: continue project 3
 - Friday: Informal Group Presentations
 - Project 3 Due: Saturday Midnight
 
 Week 12 (Nov 11)
-- Monday: Open discussion; begin Project 4
-  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
+- Monday: geospatial human development data; begin Project 4
+  - <a href = "https://dhsprogram.com"> DHS</a>
 - Wednesday: Continue Project 4
 - Friday: Continue Project 4
 
