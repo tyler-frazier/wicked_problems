@@ -71,13 +71,13 @@ Week 13
 Week 14
 
 Week 15
-- Final Group Projects
+- Presentation of Group Projects
   - Monday - 2 groups
   - Wednesday - 2 groups
   - Friday - 1 group
 
-Final Individual Project
-- Due Wednesday December 18th by 5PM
+Final (Due December 18th by 5PM)
+- Individual Project
 
 
 <a href = "https://tyzao.gitbook.io/geodatasci/">Investigating Geospatial Human Development Processes with R</a>  
