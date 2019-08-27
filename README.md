@@ -36,10 +36,48 @@ I am committed to the principle of universal learning. This means that our class
 | failing F < 60.0 |
 
 
+## Grading Opportunities
 
 
+### Semester Schedule
 
+Week 1 (August 28)
+Introductions
 
+Week 2 (September 2)
+
+Week 3
+
+Week 4
+
+Week 5
+
+Week 6
+
+Week 7
+
+Week 8
+
+Week 9
+
+Week 10
+
+Week 11
+
+Week 12
+
+Week 13
+
+Week 14
+
+Week 15
+Final Group Projects
+Monday - 2 groups
+Wednesday - 2 groups
+Friday - 1 group
+
+Final Individual Project
+Due Wednesday December 18th by 5PM
 
 
 <a href = "https://tyzao.gitbook.io/geodatasci/">Investigating Geospatial Human Development Processes with R</a>  
