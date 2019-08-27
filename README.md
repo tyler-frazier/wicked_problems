@@ -42,7 +42,10 @@ I am committed to the principle of universal learning. This means that our class
 <a href = "https://join.slack.com/t/wmdsi/shared_invite/enQtNjUwNTIwMTk1MzYwLTkzZjEzYmQ5NmVjMjUxNDUyMjRiODlkMDZmNTQzYmVkMjZlMTU3NTEzYWY2MjM0MmU5MmU5YjJiNTcyMjJiYmM"> William & Mary Data Science Team Slack Chat</a>
 
 ## Grading Opportunities
-
+Informal Group Presentations - 10%
+Four Individual Projects - 60%
+Final Group Presentation - 10%
+Final Individual Project - 20%
 
 ## Semester Schedule
 
@@ -62,30 +65,45 @@ Open Data, Open Source Software and Collective Intelligence for Environmental Da
   - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
   - add/drop period ends
 
-Week 3 (Sept 9)
+Week 3 (Sept 9) 
+- Project 1
 
 Week 4 (Sept 16)
+- Project 1
 
 Week 5 (Sept 23)
+- Project 1
+- Friday Groupies
 
 Week 6 (Sept 30)
+- Project 2
 
 Week 7 (Oct 7)
+- Project 2
 
 Week 8 (Oct 14)
+- Project 2
 - Monday: No Class (Fall Break)
+- Friday Groupies
 
 Week 9 (Oct 21)
+- Project 3
 
 Week 10 (Oct 28)
+- Project 3
 
 Week 11 (Nov 4)
+- Project 3
+- Friday Groupies
 
 Week 12 (Nov 11)
+- Project 4
 
 Week 13 (Nov 18)
+- Project 4
 
 Week 14 (Nov 25)
+- Project 4
 - Wednesday & Friday: No Class (Thanksgiving)
 
 Week 15 (Dec 2)
