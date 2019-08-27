@@ -61,11 +61,11 @@ Week 1 (Aug 28)
 - Slack
 
 Week 2 (Sept 2)
-- Monday: Open discussion; Workshop
+- Monday: Open discussion; workshop
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use of big data for development</a> (Blumenstock)
-- Wednesday: Open discussion; Workshop
+- Wednesday: Open discussion; workshop
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf">Map-Making on a Budget</a> (Perkel)
-- Friday:  Open discussion; Workshop
+- Friday:  Open discussion; workshop
   - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
   - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
   - add/drop period ends
@@ -91,7 +91,7 @@ Week 5 (Sept 23)
 
 Week 6 (Sept 30)
 - Monday: Open discussion; begin Project 2
-
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
 - Wednesday: Continue Project 2
 - Friday: Group Check-ins
 
