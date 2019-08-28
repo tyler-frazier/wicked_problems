@@ -55,7 +55,7 @@ note .9 = .9 with bar notation
 
 ## Semester Schedule
 
-### Week 1 (Aug 28)
+#### Week 1 (Aug 28)
 - Introductions
 - Syllabus
 - Slack
