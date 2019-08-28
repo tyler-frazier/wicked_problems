@@ -13,19 +13,19 @@ Global, near present-time, high-resolution data is openly accessible to construc
 
 - To challenge students to become apprentice scholars by supporting their answer to a formulated central research question with close-to-reality geospatial descriptions of human development processes.
 
-## Honor Code
+# Honor Code
 Among our most significant traditions is the student-administered honor system. The Honor Code is an enduring tradition with a documented history that originates as far back as 1736. The essence of our honor system is individual responsibility. Today, students, such as yourself, administer the Honor pledge to each incoming student while also serving to educate faculty and administration on the relevance of the Code and its application to students’ lives.
 
 The Pledge
 
 “As a member of the William and Mary community, I pledge on my honor not to lie, cheat, or steal, either in my academic or personal life. I understand that such acts violate the Honor Code and undermine the community of trust, of which we are all stewards.”
 
-## Accessibility, Attendance & Universal Learning
+# Accessibility, Attendance & Universal Learning
 William & Mary accommodates students with disabilities in accordance with federal laws and university policy. Any student who feels s/he may need an accommodation based on the impact of a learning, psychiatric, physical, or chronic health diagnosis should contact Student Accessibility Services staff at 757-221-2509 or at sas@wm.edu to determine if accommodations are warranted and to obtain an official letter of accommodation. For more information, please see www.wm.edu/sas.
 
 I am committed to the principle of universal learning. This means that our classroom, our virtual spaces, our practices, and our interactions be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning. Active, thoughtful, and respectful participation in all aspects of the course will make our time together as productive and engaging as possible.
 
-## Grade Categories
+# Grade Categories
 
 |    |    |    |
 | --- | --- | --- |
@@ -37,13 +37,13 @@ I am committed to the principle of universal learning. This means that our class
 
 note .9 = .9 with bar notation
 
-## Instructional Material and Mediums
+# Instructional Material and Mediums
 
 <a href = "https://tyzao.gitbook.io/geodatasci/">Investigating Geospatial Human Development Processes with R</a>
 
 <a href = "https://join.slack.com/t/wmdsi/shared_invite/enQtNjUwNTIwMTk1MzYwLTkzZjEzYmQ5NmVjMjUxNDUyMjRiODlkMDZmNTQzYmVkMjZlMTU3NTEzYWY2MjM0MmU5MmU5YjJiNTcyMjJiYmM"> William & Mary Data Science Team Slack Chat</a>
 
-## Grading Opportunities
+# Grading Opportunities
 
 |    |    |    |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ note .9 = .9 with bar notation
 | Final Group Presentation | 10% | Week 15 |
 | Final Individual Project | 20% | due by 5PM Wednesday, December 18th |
 
-## Semester Schedule
+# Semester Schedule
 
 ### Week 1 (Aug 28)
 - Introductions
