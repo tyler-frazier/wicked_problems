@@ -148,7 +148,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 14 (Nov 25)
 - Monday: open discussion; continue Project 4
-  - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Creating Spatial Interpolation Surfaces with DHS Data</a> (Utazi et al.)
+  - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Mapping vaccination coverage to explore the effects of delivery mechanisms and inform vaccination strategies</a> (Utazi et al.)
 - __Project 4 Due__: Tuesday Noon 
 - Wednesday & Friday: No Class (Thanksgiving)
 
