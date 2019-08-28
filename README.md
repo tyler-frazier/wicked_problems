@@ -71,7 +71,7 @@ Week 2 (Sept 2)
   - add/drop period ends
 
 Week 3 (Sept 9) 
-- Monday: geospatial human development data; begin Project 1
+- Monday: geospatial human development data; assign groups; begin Project 1
   - <a href = "https://www.worldpop.org/"> WorldPop</a>
   - <a href = "https://www.gadm.org"> GADM</a>
   - <a href = "https://data.humdata.org"> HDX</a>
@@ -90,8 +90,8 @@ Week 5 (Sept 23)
   - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)
 - Wednesday: continue Project 1
-- Friday: Informal Group Presentations
-- Project 1 Due: Saturday Midnight
+- Friday: __Informal Group Presentations__
+- __Project 1 Due__: Saturday Midnight
 
 Week 6 (Sept 30)
 - Monday: geospatial human development data; begin Project 2
@@ -110,8 +110,8 @@ Week 8 (Oct 14)
 - Monday: No Class (Fall Break)
 - Wednesday: open discussion, continue Project 2
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
-- Friday: Informal Group Presentations
-- Project 2 Due: Saturday Midnight
+- Friday: __Informal Group Presentations__
+- __Project 2 Due__: Saturday Midnight
 
 Week 9 (Oct 21)
 - Monday: geospatial human development data; open discussion; begin Project 3
@@ -131,8 +131,8 @@ Week 11 (Nov 4)
 - Monday: continue project 3
   - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Wednesday: continue project 3
-- Friday: Informal Group Presentations
-- Project 3 Due: Saturday Midnight
+- Friday: __Informal Group Presentations__
+- __Project 3 Due__: Saturday Midnight
 
 Week 12 (Nov 11)
 - Monday: geospatial human development data; begin Project 4
@@ -149,17 +149,17 @@ Week 13 (Nov 18)
 Week 14 (Nov 25)
 - Monday: open discussion; continue Project 4
   - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Creating Spatial Interpolation Surfaces with DHS Data</a> (Utazi et al.)
-- Project 4 Due: Tuesday Noon 
+- __Project 4 Due__: Tuesday Noon 
 - Wednesday & Friday: No Class (Thanksgiving)
 
 Week 15 (Dec 2)
-- Presentation of Group Projects
+- __Presentation of Group Projects__
   - Monday: group meeting and planning
   - Wednesday - 3 groups
   - Friday - 2 groups
 
 Final (Due December 18th by 5PM)
-- Individual Project
+- __Individual Project__
 
 
 
