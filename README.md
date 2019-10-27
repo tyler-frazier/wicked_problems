@@ -39,7 +39,7 @@ note .9 = .9 with bar notation
 
 # Instructional Material and Mediums
 
-<a href = "https://tyzao.gitbook.io/geodatasci/">Investigating Geospatial Human Development Processes with R</a>
+<a href = "https://tyzao.gitbook.io/geodatasci/">Investigating Geospatial Human Development Patterns and Processes</a>
 
 <a href = "https://join.slack.com/t/wmdsi/shared_invite/enQtNjUwNTIwMTk1MzYwLTkzZjEzYmQ5NmVjMjUxNDUyMjRiODlkMDZmNTQzYmVkMjZlMTU3NTEzYWY2MjM0MmU5MmU5YjJiNTcyMjJiYmM"> William & Mary Data Science Team Slack Chat</a>
 
