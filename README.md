@@ -55,12 +55,12 @@ note .9 = .9 with bar notation
 
 # Semester Schedule
 
-### Week 1 (Aug 28)
+### Week 1 (Jan 22)
 - Introductions
 - Syllabus
 - Slack
 
-### Week 2 (Sept 2)
+### Week 2 (Jan 27)
 - Monday: open discussion; workshop
   - <a href = "https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf">Don’t forget people in the use of big data for development</a> (Blumenstock)
 - Wednesday: open discussion; workshop
@@ -70,7 +70,7 @@ note .9 = .9 with bar notation
   - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
   - add/drop period ends
 
-### Week 3 (Sept 9) 
+### Week 3 (Feb 3) 
 - Monday: geospatial human development data; assign groups; begin Project 1
   - <a href = "https://www.worldpop.org/"> WorldPop</a>
   - <a href = "https://www.gadm.org"> GADM</a>
@@ -79,13 +79,13 @@ note .9 = .9 with bar notation
 - Wednesday: continue Project 1
 - Friday: group check-ins
 
-### Week 4 (Sept 16)
+### Week 4 (Feb 10)
 - Monday: open discussion; continue Project 1 
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
 - Wednesday: continue Project 1
 - Friday: group check-ins
 
-### Week 5 (Sept 23)
+### Week 5 (Feb 17)
 - Monday: open discussion, continue Project 1
   - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)
@@ -93,27 +93,27 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Friday: __Informal Group Presentations__
 - __Project 1 Due__: Saturday Midnight
 
-### Week 6 (Sept 30)
+### Week 6 (Feb 24)
 - Monday: geospatial human development data; begin Project 2
   - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
   - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
 - Wednesday: continue Project 2
 - Friday: group check-ins
 
-### Week 7 (Oct 7)
+### Week 7 (Mar 2)
 - Monday: open discussion, continue Project 2
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
 - Wednesday: continue Project 2
 - Friday: group check-ins
 
-### Week 8 (Oct 14)
+### Week 8 (Mar 9)
 - Monday: No Class (Fall Break)
 - Wednesday: open discussion, continue Project 2
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
 - Friday: __Informal Group Presentations__
 - __Project 2 Due__: Saturday Midnight
 
-### Week 9 (Oct 21)
+### Week 9 (Mar 16)
 - Monday: geospatial human development data; open discussion; begin Project 3
   - <a href = "https://www.openstreetmap.org/"> OSM</a>
   - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
@@ -121,44 +121,44 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Wednesday: continue project 3
 - Friday: group check-ins
 
-### Week 10 (Oct 28)
+### Week 10 (Mar 23)
 - Monday: open discussion; continue Project 3
   - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
  - Wednesday: continue Project 3
  - Friday: group check-ins
 
-### Week 11 (Nov 4)
+### Week 11 (Mar 30)
 - Monday: continue project 3
   - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Wednesday: continue project 3
 - Friday: __Informal Group Presentations__
 - __Project 3 Due__: Saturday Midnight
 
-### Week 12 (Nov 11)
+### Week 12 (Apr 6)
 - Monday: geospatial human development data; begin Project 4
   - <a href = "https://dhsprogram.com"> DHS</a>
 - Wednesday: continue Project 4
 - Friday: continue Project 4
 
-### Week 13 (Nov 18)
+### Week 13 (Apr 13)
 - Monday: open discussion; continue Project 4
   - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
 - Wednesday: continue Project 4
 - Friday: continue Project 4
 
-### Week 14 (Nov 25)
+### Week 14 (Apr 20)
 - Monday: open discussion; continue Project 4
   - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Mapping vaccination coverage to explore the effects of delivery mechanisms and inform vaccination strategies</a> (Utazi et al.)
 - __Project 4 Due__: Tuesday Noon 
 - Wednesday & Friday: No Class (Thanksgiving)
 
-### Week 15 (Dec 2)
+### Week 15 (Apr 27)
 - __Presentation of Group Projects__
   - Monday: group meeting and planning
   - Wednesday - 3 groups
   - Friday - 2 groups
 
-### Final (Due December 18th by 5PM)
+### Final (Due May 13th by 5PM)
 - __Individual Project__
 
 
