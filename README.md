@@ -104,21 +104,21 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Monday: open discussion, continue Project 2
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
 - Wednesday: continue Project 2
-- Friday: group check-ins
+- Friday: __Informal Group Presentations__
 
 ### Week 8 (Mar 9)
-- Monday: No Class (Fall Break)
-- Wednesday: open discussion, continue Project 2
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
-- Friday: __Informal Group Presentations__
+- Monday: No Class (Spring Break)
+- Wednesday: No Class (Spring Break)
+- Friday: No Class (Spring Break)
 - __Project 2 Due__: Saturday Midnight
 
 ### Week 9 (Mar 16)
 - Monday: geospatial human development data; open discussion; begin Project 3
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
+- Wednesday: continue project 3
   - <a href = "https://www.openstreetmap.org/"> OSM</a>
   - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
   - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
-- Wednesday: continue project 3
 - Friday: group check-ins
 
 ### Week 10 (Mar 23)
