@@ -72,7 +72,7 @@ note .9 = .9 with bar notation
 
 ### Week 3 (Feb 3) 
 - Monday: geospatial human development data; assign groups; begin Project 1 
-  - <a href = "https://tyzao.gitbook.io/geodatasci/test/an-introduction-to-spatial-data">Link to Project 1, Part 1: Projecting, Plotting and Labeling Administrative Subdivisions</a>
+  - <a href = "https://tyzao.gitbook.io/geodatasci/descript_pop/intro_spatdata">Link to Project 1, Part 1: Projecting, Plotting and Labeling Administrative Subdivisions</a>
   - <a href = "https://www.worldpop.org/"> WorldPop</a>
   - <a href = "https://www.gadm.org"> GADM</a>
   - <a href = "https://data.humdata.org"> HDX</a>
