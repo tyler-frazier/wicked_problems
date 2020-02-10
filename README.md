@@ -82,6 +82,9 @@ note .9 = .9 with bar notation
 
 ### Week 4 (Feb 10)
 - Monday: open discussion; continue Project 1 
+  - <a href = "https://tyzao.gitbook.io/geodatasci/descript_pop/extract_pops">Link to Project 1, Part 2: Extracting Populations from a Raster and Aggregating to each Unit</a>
+
+
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
 - Wednesday: continue Project 1
 - Friday: group check-ins
