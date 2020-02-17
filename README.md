@@ -89,6 +89,7 @@ note .9 = .9 with bar notation
 
 ### Week 5 (Feb 17)
 - Monday: open discussion, continue Project 1
+  - <a href = "https://tyzao.gitbook.io/geodatasci/descript_pop/geombar_plot">Link to Project 1, Part 3: Creating a Geometric Bar Plot with your Simple Feature object</a>
   - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)
 - Wednesday: continue Project 1
