@@ -93,30 +93,30 @@ note .9 = .9 with bar notation
   - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
 in the absence of national population and housing census data</a> (Wardrop et al.)
 - Wednesday: continue Project 1
-- Friday: __Informal Group Presentations__
-- __Project 1 Due__: Saturday Midnight
+- Friday: Class cancelled due to snow
 
 ### Week 6 (Feb 24)
-- Monday: geospatial human development data; begin Project 2
+- Monday: __Informal Group Presentations__
+- __Project 1 Due__: Midnight
+- Wednesday: geospatial human development data; begin Project 2
   - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
   - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
-- Wednesday: continue Project 2
-- Friday: group check-ins
+  - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/landuse_cover"> Link to Project 2, Part 1: Acquiring, Modifying and Describing the Data</a>
+- Friday: continue Project 2
 
 ### Week 7 (Mar 2)
 - Monday: open discussion, continue Project 2
   - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
 - Wednesday: continue Project 2
-- Friday: __Informal Group Presentations__
+- Friday: group check-ins
 
 ### Week 8 (Mar 9)
 - Monday: No Class (Spring Break)
 - Wednesday: No Class (Spring Break)
 - Friday: No Class (Spring Break)
-- __Project 2 Due__: Saturday Midnight
 
 ### Week 9 (Mar 16)
-- Monday: geospatial human development data; open discussion; begin Project 3
+- Monday: geospatial human development data; open discussion; continue Project 2
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
 - Wednesday: continue project 3
   - <a href = "https://www.openstreetmap.org/"> OSM</a>
