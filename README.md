@@ -121,11 +121,11 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Friday: cancelled
 
 ### Week 10 (Mar 23)
-- Begin remote instruction, all instruction will be live via <a href = "https://zoom.us/"> Zoom</a> at our normally scheduled class times.
-- Monday:   
+- Begin remote instruction, all instruction will be live via <a href = "https://zoom.us/"> Zoom</a> at our normally scheduled class times.  A link to the live video feed will be posted on the slack channel for the current project.
+- Monday:
+  - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/spat_model_predict"> Link to Project 2, Part 2: Modeling & Predicting Spatial Values</a>
   - <a href = "https://www.openstreetmap.org/"> OSM</a>
   - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
-  - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/spat_model_predict"> Link to Project 2, Part 2: Modeling & Predicting Spatial Values</a>
 - Wednesday: 
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
   - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
