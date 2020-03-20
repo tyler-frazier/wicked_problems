@@ -116,11 +116,18 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Friday: No Class (Spring Break)
 
 ### Week 9 (Mar 16)
-- Monday: geospatial human development data; open discussion; continue Project 2
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
-- Wednesday: continue project 3
+- Monday: cancelled
+- Wednesday: cancelled
+- Friday: cancelled
+
+### Week 10 (Mar 23)
+- Begin remote instruction, all instruction will be live via <a href = "https://zoom.us/"> Zoom</a> at our normally scheduled class times.
+- Monday:   
   - <a href = "https://www.openstreetmap.org/"> OSM</a>
   - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
+  - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/spat_model_predict"> Link to Project 2, Part 2: Modeling & Predicting Spatial Values</a>
+- Wednesday: 
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
   - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
 - Friday: group check-ins
 
