@@ -126,23 +126,24 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/spat_model_predict"> Link to Project 2, Part 2: Modeling & Predicting Spatial Values</a>
   - <a href = "https://www.openstreetmap.org/"> OSM</a>
   - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
-- Wednesday: 
+- Wednesday: continue Project 2
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
-  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
 - Friday: group check-ins
 
-### Week 10 (Mar 23)
-- Monday: open discussion; continue Project 3
-  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
- - Wednesday: continue Project 3
- - Friday: group check-ins
+### Week 11 (Mar 30)
+- Monday:   
+  - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/invest_compare"> Link to Project 2, Part 3: Modeling & Predicting Spatial Values</a>
+ - Wednesday: continue Project 2
+ - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+ - Friday: __Informal Group Presentations__
+- __Project 3 Due__: Saturday Midnight
 
 ### Week 11 (Mar 30)
 - Monday: continue project 3
+  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
   - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Wednesday: continue project 3
-- Friday: __Informal Group Presentations__
-- __Project 3 Due__: Saturday Midnight
+- Friday: group check-ins
 
 ### Week 12 (Apr 6)
 - Monday: geospatial human development data; begin Project 4
