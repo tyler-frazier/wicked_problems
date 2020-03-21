@@ -133,7 +133,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 11 (Mar 30)
 - Monday:   
-  - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/invest_compare"> Link to Project 2, Part 3: Modeling & Predicting Spatial Values</a>
+  - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/invest_compare"> Link to Project 2, Part 3: Investigating and Comparing Results</a>
  - Wednesday: continue Project 2
     - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
  - Friday: __Informal Group Presentations__
@@ -146,17 +146,17 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
 - Friday: group check-ins
 
-### Week 12 (Apr 13)
+### Week 13 (Apr 13)
 - Monday: geospatial human development data; begin Project 4
-  - <a href = "https://tyzao.gitbook.io/geodatasci/access/defacto_descript"> Link to Project 3, Part 1: De facto description of human settlements and urban areas</a>
+  - <a href = "https://tyzao.gitbook.io/geodatasci/access/defacto_descript"> Link to Project 3, Part 2: De facto description of human settlements and urban areas</a>
 
 - Wednesday: continue Project 3, Part 1
   - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Friday: continue Project 4
 
-### Week 13 (Apr 13)
+### Week 14 (Apr 20)
 - Monday: open discussion; continue Project 4
-  - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
+
 - Wednesday: continue Project 4
 - Friday: continue Project 4
 
