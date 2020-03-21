@@ -124,8 +124,9 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Begin remote instruction, all instruction will be live via <a href = "https://zoom.us/"> Zoom</a> at our normally scheduled class times.  A link to the live video feed will be posted on the slack channel for the current project.
 - Monday:
   - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/spat_model_predict"> Link to Project 2, Part 2: Modeling & Predicting Spatial Values</a>
-  - <a href = "https://www.openstreetmap.org/"> OSM</a>
-  - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
+  - <a href = "https://dhsprogram.com"> DHS</a> *just for review, consider use when reading Nieves et al.*
+  - <a href = "https://www.openstreetmap.org/"> OSM</a> *just for review, consider use when reading Strano et al.*
+  - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a> *just for review, consider use when reading Maina et al. and Reed et al.*
 - Wednesday: continue Project 2
   - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf"> Examining the correlates and drivers of human population distributions across low- and middle-income countries</a> (Nieves et al.)
 - Friday: group check-ins
@@ -136,20 +137,21 @@ in the absence of national population and housing census data</a> (Wardrop et al
  - Wednesday: continue Project 2
     - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
  - Friday: __Informal Group Presentations__
-- __Project 3 Due__: Sunday Midnight (April 5)
+- __Project 2 Due__: Sunday Midnight (April 5)
 
 ### Week 12 (Apr 6)
-- Monday: Begin project 3
-  - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/invest_compare"> Link to Project 3, Part 1: Modeling & Predicting Spatial Values</a>
+- Monday: Begin Project 3
+  - <a href = "https://tyzao.gitbook.io/geodatasci/access/defacto_descript"> Link to Project 3, Part 1: De facto description of human settlements and urban areas</a>
 - Wednesday: continue project 3
   - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
-  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Friday: group check-ins
 
-### Week 12 (Apr ..)
+### Week 12 (Apr 13)
 - Monday: geospatial human development data; begin Project 4
-  - <a href = "https://dhsprogram.com"> DHS</a>
-- Wednesday: continue Project 4
+  - <a href = "https://tyzao.gitbook.io/geodatasci/access/defacto_descript"> Link to Project 3, Part 1: De facto description of human settlements and urban areas</a>
+
+- Wednesday: continue Project 3, Part 1
+  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
 - Friday: continue Project 4
 
 ### Week 13 (Apr 13)
