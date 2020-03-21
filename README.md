@@ -136,16 +136,17 @@ in the absence of national population and housing census data</a> (Wardrop et al
  - Wednesday: continue Project 2
     - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
  - Friday: __Informal Group Presentations__
-- __Project 3 Due__: Saturday Midnight
-
-### Week 11 (Mar 30)
-- Monday: continue project 3
-  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
-  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
-- Wednesday: continue project 3
-- Friday: group check-ins
+- __Project 3 Due__: Sunday Midnight (April 5)
 
 ### Week 12 (Apr 6)
+- Monday: Begin project 3
+  - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/invest_compare"> Link to Project 3, Part 1: Modeling & Predicting Spatial Values</a>
+- Wednesday: continue project 3
+  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
+  - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
+- Friday: group check-ins
+
+### Week 12 (Apr ..)
 - Monday: geospatial human development data; begin Project 4
   - <a href = "https://dhsprogram.com"> DHS</a>
 - Wednesday: continue Project 4
