@@ -151,18 +151,18 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - <a href = "https://tyzao.gitbook.io/geodatasci/access/defacto_descript"> Link to Project 3, Part 2: De facto description of human settlements and urban areas</a>
 - Wednesday: continue Project 3, Part 2
   - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
-- Friday: group check-ins
+- Friday: __Informal Group Presentations__
+- __Project 3 Due__: Sunday Midnight (April 19)
 
 ### Week 14 (Apr 20)
-- Monday: open discussion; Begin Project 4
+- Monday: Begin Project 4
 - Wednesday: continue Project 4
 - Friday: continue Project 4
 
 ### Week 15 (Apr 27)
-- __Presentation of Group Projects__
   - Monday: group meeting and planning
-  - Wednesday - 3 groups
-  - Friday - 2 groups
+  - Wednesday: group meeting and planning
+  - Friday: - __Presentation of Group Projects__ *each group schedules presentation time*
 
 ### Final (Due May 13th by 5PM)
 - __Individual Project__
