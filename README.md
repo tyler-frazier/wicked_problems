@@ -134,7 +134,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Monday:   
   - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/invest_compare"> Link to Project 2, Part 3: Modeling & Predicting Spatial Values</a>
  - Wednesday: continue Project 2
- - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
  - Friday: __Informal Group Presentations__
 - __Project 3 Due__: Saturday Midnight
 
