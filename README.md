@@ -132,7 +132,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Friday: group check-ins
 
 ### Week 11 (Mar 30)
-- Monday:   
+- Monday: continue Project 2
   - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/invest_compare"> Link to Project 2, Part 3: Investigating and Comparing Results</a>
  - Wednesday: continue Project 2
     - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
@@ -142,29 +142,21 @@ in the absence of national population and housing census data</a> (Wardrop et al
 ### Week 12 (Apr 6)
 - Monday: Begin Project 3
   - <a href = "https://tyzao.gitbook.io/geodatasci/access/defacto_descript"> Link to Project 3, Part 1: De facto description of human settlements and urban areas</a>
-- Wednesday: continue project 3
+- Wednesday: continue Project 3, Part 1
   - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
 - Friday: group check-ins
 
 ### Week 13 (Apr 13)
-- Monday: geospatial human development data; begin Project 4
+- Monday: continue Project 3
   - <a href = "https://tyzao.gitbook.io/geodatasci/access/defacto_descript"> Link to Project 3, Part 2: De facto description of human settlements and urban areas</a>
-
-- Wednesday: continue Project 3, Part 1
+- Wednesday: continue Project 3, Part 2
   - <a href = "https://www.mdpi.com/2306-5729/3/3/33/htm"> Gridded Population Maps Informed by Different Built Settlement Products</a> (Reed et al.)
-- Friday: continue Project 4
+- Friday: group check-ins
 
 ### Week 14 (Apr 20)
-- Monday: open discussion; continue Project 4
-
+- Monday: open discussion; Begin Project 4
 - Wednesday: continue Project 4
 - Friday: continue Project 4
-
-### Week 14 (Apr 20)
-- Monday: open discussion; continue Project 4
-  - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Mapping vaccination coverage to explore the effects of delivery mechanisms and inform vaccination strategies</a> (Utazi et al.)
-- __Project 4 Due__: Tuesday Noon 
-- Wednesday & Friday: No Class (Thanksgiving)
 
 ### Week 15 (Apr 27)
 - __Presentation of Group Projects__
