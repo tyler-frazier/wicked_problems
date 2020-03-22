@@ -124,7 +124,6 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Begin remote instruction, all instruction will be live via <a href = "https://zoom.us/"> Zoom</a> at our normally scheduled class times.  A link to the live video feed will be posted on the slack channel for the current project.
 - Monday:
   - <a href = "https://tyzao.gitbook.io/geodatasci/investigate/spat_model_predict"> Link to Project 2, Part 2: Modeling & Predicting Spatial Values</a>
-  - <a href = "https://dhsprogram.com"> DHS</a> *just for review, consider use when reading Nieves et al.*
   - <a href = "https://www.openstreetmap.org/"> OSM</a> *just for review, consider use when reading Strano et al.*
   - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a> *just for review, consider use when reading Maina et al. and Reed et al.*
 - Wednesday: continue Project 2
