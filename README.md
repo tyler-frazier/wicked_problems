@@ -155,13 +155,15 @@ in the absence of national population and housing census data</a> (Wardrop et al
 
 ### Week 14 (Apr 20)
 - Monday: Begin Project 4
+  - <a href = "https://tyzao.gitbook.io/geodatasci/topography"> Link to Project 4, Part 1: Rendering Topography</a>
 - Wednesday: continue Project 4
 - Friday: continue Project 4
 
 ### Week 15 (Apr 27)
-  - Monday: group meeting and planning
-  - Wednesday: group meeting and planning
-  - Friday: - __Presentation of Group Projects__ *each group schedules presentation time*
+- Monday: group meeting and planning
+  - <a href = "https://tyzao.gitbook.io/geodatasci/final"> Link to Project 4, Part 2: Final Presentation</a>
+- Wednesday: group meeting and planning
+- Friday: - __Presentation of Group Projects__ *each group schedules presentation time*
 
 ### Final (Due May 13th by 5PM)
 - __Individual Project__
