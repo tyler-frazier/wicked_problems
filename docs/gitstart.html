@@ -1,0 +1,274 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Getting Started with GitHub - Population and Development Data Science</title>
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "light" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div id="sidebar-scrollbox" class="sidebar-scrollbox">
+                <ol class="chapter"><li class="expanded affix "><a href="book.html">About this book</a></li><li class="expanded affix "><a href="author.html">About the author</a></li><li class="expanded "><a href="courses.html"><strong aria-hidden="true">1.</strong> Teaching and Syllabuses</a></li><li><ol class="section"><li class="expanded "><a href="expect.html"><strong aria-hidden="true">1.1.</strong> Expectations and Assessment</a></li><li class="expanded "><a href="data310.html"><strong aria-hidden="true">1.2.</strong> DATA 310 Applied Machine Learning</a></li><li class="expanded "><a href="data441.html"><strong aria-hidden="true">1.3.</strong> DATA 441 Agent-Based Modeling</a></li><li class="expanded "><a href="data150.html"><strong aria-hidden="true">1.4.</strong> DATA 150 Evolving Solutions</a></li><li class="expanded "><a href="data100.html"><strong aria-hidden="true">1.5.</strong> DATA 100 Wicked Problems</a></li></ol></li><li class="expanded "><a href="getting_started.html"><strong aria-hidden="true">2.</strong> Student Preparations</a></li><li><ol class="section"><li class="expanded "><a href="gitstart.html" class="active"><strong aria-hidden="true">2.1.</strong> Getting Started with GitHub</a></li><li class="expanded "><a href="rstart.html"><strong aria-hidden="true">2.2.</strong> Getting Started with R &amp; RStudio</a></li><li class="expanded "><a href="jupyterstart.html"><strong aria-hidden="true">2.3.</strong> Getting Started with JupyterHub</a></li><li class="expanded "><a href="colabstart.html"><strong aria-hidden="true">2.4.</strong> Getting Started with Google Colab</a></li></ol></li><li class="expanded "><a href="datause.html"><strong aria-hidden="true">3.</strong> Data Use for Human and Community Scale Processes</a></li><li><ol class="section"><li class="expanded "><a href="describe.html"><strong aria-hidden="true">3.1.</strong> Spatial Population Description</a></li><li class="expanded "><a href="model.html"><strong aria-hidden="true">3.2.</strong> Spatial Population Modelling</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">Population and Development Data Science</h1>
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <hr />
+<h2>description: &gt;-
+Create a GitHub site that will use to populate with results from your
+geospatial data science investigation on your selected LMIC and administrative
+subdivision(s).</h2>
+<h1><a class="header" href="#getting-started-with-github" id="getting-started-with-github">Getting started with GitHub</a></h1>
+<p>Through the course of this semester you will use GitHub as a repository to save and share your work.  GitHub uses a fairly simple programming language called markdown which you will use to present content you have created.  Upon completing your different GitHub sites, I will ask you to post a link to your website on the appropriate slack channel #data1X0_ prior to the given deadline.</p>
+<p>To begin go to <a href="https://github.com">https://github.com</a> and create a new account.  You should see a website that is very similar to the following image.</p>
+<p><img src="images/screen-shot-2019-12-08-at-9.15.32-pm.png" alt="" /></p>
+<p>After clicking on the sign up link, create your account by designating your username, e-mail address and password.  In order to simulate the process of signing up, I am using the username <code>wicked-problems.</code>  My real GitHub account is <a href="https://github.com/tyler-frazier">https://github.com/tyler-frazier</a>, and you are welcome to follow me, although it is not necessary for this final project.</p>
+<p><img src="images/screen-shot-2019-12-08-at-9.08.29-pm.png" alt="" /></p>
+<p><img src="images/screen-shot-2019-12-08-at-9.11.13-pm.png" alt="" /></p>
+<p>After creating your account, you should receive an e-mail asking to verify your account.  Go ahead and verify, so GitHub can permit you to create a new repository.  Once you verify your e-mail address, GitHub will likely ask if you want to create a new repository.  If somehow you are not automatically asked to create a new repository, it is also possible by selecting the + pull down arrow in the top right corner of the page.</p>
+<p><img src="images/screen-shot-2019-12-08-at-9.28.39-pm.png" alt="" /></p>
+<p>You will also notice that there is a guide made available for new users (the green, read the guide tab).  This is really good guide to read, in order to learn how to use GitHub as a version control system.  Although you will be using only a small amount of GitHub's full potential for this final project, I highly recommend making a mental note of the guide and returning to the 10 minute read when you have some time.  If you are planning to major or minor in data science, computer science, or any discipline that has a signficiant compuational component, it will be very likely that at some point in the future you will need to use a version control system (such as GitHub) for repository control, sharing, collaboration, conflict resolution etc...<a href="https://guides.github.com/activities/hello-world/">https://guides.github.com/activities/hello-world/</a></p>
+<p>Create your first repository.  In the following example I have named my repository <code>workshop</code>.</p>
+<p><img src="images/screen-shot-2019-12-08-at-9.09.24-pm.png" alt="" /></p>
+<p>After creating your repository, go to the main page for your repository.  You should see a quick setup script under the <code>code</code> tab.  Click on <code>create a new file</code> under the quick set-up at the top of the page in order to populate your newly created repository with a file named <code>README.md</code>.  The <code>.md</code> extension after the filename is the extension for a markdown file.  Markdown is a simple, plain text, formatting, syntax language which has as its main design goal, as-is readability.   It is a relatively simple language that will enable you to program webpage content fairly easily. </p>
+<p><img src="images/screen-shot-2019-12-08-at-9.56.08-pm.png" alt="" /></p>
+<p>This should bring you to a new page where you are able to create a new file.  In order for your GitHub Pages site to function properly, you will need a <code>README.md</code> file in the root folder of your repository.  Below the field for the file name is the markdown file body, where you will type your script.  Add a first level <code>header</code> to your <code>README.md</code> file by adding one <code>#</code> and following it with your title.</p>
+<p><img src="images/screen-shot-2019-12-08-at-10.32.57-pm.png" alt="" /></p>
+<p>You can also preview the output from your markdown file, by clicking on the preview changes tab.</p>
+<p><img src="images/screen-shot-2019-12-08-at-10.33.05-pm.png" alt="" /></p>
+<p>After typing the simple markdown script, scroll to the bottom of the page and click on the green commit button, to commit your file to your repository.  You will need to press this green button, each time you edit the content within a file or add new files to your repository.  By making a new commit to your repository, you are essentially updating all of the changes you had previously made.  While in the case of your final project, there is essentially only one person executing changes per repository, potentially a version control system has the power of resolving conflicts amongst multiple persons all committing changes to the same file simultaneously.  That is the power of a version control system, such as GitHub.</p>
+<p><img src="images/screen-shot-2019-12-08-at-10.06.32-pm.png" alt="" /></p>
+<p>To begin getting an understanding of how to use markdown, have a look at the following cheatsheet.  The two main areas to note are how to use <strong>headers</strong> and then a bit further down in the cheatsheet, how to produce <strong>tables</strong>.</p>
+<p>{% embed url=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot; %}</p>
+<p>For the final project, you will only be using headers, paragraph text and inserting images.  After having a look at the markdown cheatsheet, return to the main page of your repository, which should appear similar to the following image.  After navigating to that location, click on the <code>settings</code> tab in the top right hand corner.</p>
+<p><img src="images/screen-shot-2019-12-08-at-10.32.39-pm.png" alt="" /></p>
+<p>Scroll down to the <strong>GitHub Pages</strong> section under <code>settings</code> and change the page source from <code>none</code> to <code>master_branch</code>.</p>
+<p><img src="images/screen-shot-2019-12-08-at-10.24.15-pm.png" alt="" /></p>
+<p>After setting the branch where your <strong>GitHub Pages</strong> files will reside, also select the theme tab and choose one of the available themes.  I chose the theme <code>Caymen</code> for my page, but you are welcome to select any of the available themes for your final project.  After, selecting your theme and returning to the <strong>GitHub Pages</strong> section, you should notice a web address appear where your site has been published.  It might take a few moments for your webpage to appear, but not more than 10 or 15 seconds.  Usually it updates and publishes almost immediately.</p>
+<p><img src="images/screen-shot-2019-12-08-at-10.40.01-pm.png" alt="" /></p>
+<p>After clicking on the link, the newly created webpage that you will use to publish the results from your investigation should appear.  To start making changes to your website, go back to the main page of your repository and select the <strong>upload files</strong> tab.</p>
+<p><img src="images/screen-shot-2019-12-08-at-10.59.08-pm.png" alt="" /></p>
+<p>This should bring you to a page that will enable you to upload the images you have produced from each of the previous projects.  The interface should appear similar to the following image.  You can simply drag and drop images directly through the GitHub <strong>upload files</strong> interface.</p>
+<p><img src="images/screen-shot-2019-12-08-at-10.58.00-pm.png" alt="" /></p>
+<p>I will begin by dragging and dropping a few of the plots produced that describe the administrative subdivisions of Liberia as well as the spatial distribution of it's population.</p>
+<p><img src="images/screen-shot-2019-12-08-at-11.04.22-pm.png" alt="" /></p>
+<p>After dropping the files into my repository, the basic file structure appears as follows.</p>
+<p><img src="images/screen-shot-2019-12-08-at-11.15.14-pm.png" alt="" /></p>
+<p>To add the image <code>details.png</code> to your <code>README.md</code> file, first select the <code>README.md</code> file, and then select the pen image in the upper right hand side of the screen to begin editing the content you already saved to your markdown file.</p>
+<p><img src="images/screen-shot-2019-12-08-at-11.17.44-pm.png" alt="" /></p>
+<p>After opening up the markdown file editor, add a second level header by preceding the text with two <code>##</code> and then add your image by adding a <code>![]</code> in advance of the file name <code>details.png</code> , which is contained within <code>()</code> .  Don't forget to scroll down to the bottom of the page and click on the <strong>commit</strong> button to make sure the changes you have made to the file are properly committed to the repository.  If you do not commit your changes to your repository, your file will not have been saved nor will your webpage updates be published.</p>
+<p><img src="images/screen-shot-2019-12-08-at-11.25.56-pm.png" alt="" /></p>
+<p>After committing the changes and waiting a few moments, your changes will appear to the published webpage.</p>
+<p><img src="images/screen-shot-2019-12-08-at-11.28.27-pm.png" alt="" /></p>
+<p>After adding your map that describes the political subdivisions of your LMIC, also add your description of population as spatially distributed at different adm levels.</p>
+<p><img src="images/screen-shot-2019-12-09-at-3.25.56-am.png" alt="" /></p>
+<p>If you created an animated video, such as a <code>.mp4</code> file that rotates and describes population in three dimensions, you will need to convert that file to a <code>.gif</code> in order to include it in your project webpage.  This is fairly easily accomplished by using an online conversion tool.  I simply entered &quot;<em>online conversion of mp4 to gif mac</em>&quot; into google, and the search engine returned several possible options, such as <a href="https://ezgif.com/video-to-gif">https://ezgif.com/video-to-gif</a>, among many others.  After converting your <code>.mp4</code> to a <code>.gif</code> , upload the file to your repository and include it as an image in your markdown file, just like the other images.</p>
+<p><img src="images/screen-shot-2019-12-09-at-3.34.14-am.png" alt="" /></p>
+<p>Which will produce the following image as part of your webpage.</p>
+<p><img src="images/pop.gif" alt="" /></p>
+<p>{% embed url=&quot;https://wicked-problems.github.io/final_project/&quot; %}</p>
+<p>Now continue to populate your newly created GitHub Pages site, using markdown and your <code>README.md</code> file.  There are a multitude of different structural approaches you could take to creating your webpage, such as creating different markdown files and providing links to each, but in the most basic form, you can simply use the <code>README.md</code> file to produce your final project.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="getting_started.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="rstart.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a href="getting_started.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a href="rstart.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+        
+        
+        <script type="text/javascript">
+            window.playpen_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
