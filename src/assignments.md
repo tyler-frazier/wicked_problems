@@ -16,9 +16,10 @@
   - Development data catalogs and exchanges
      - <a href = "https://data.humdata.org"> The Humanitarian Data Exchange</a>
      - <a href = "https://catalog.ihsn.org/"> International Household Survey Network</a>
-  - Remotely sensed raster data 
-     - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
-     - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
+  - Remotely sensed raster data
+     - <a href = "https://earthdata.nasa.gov"> NASA's Earth Science Data Systems</a> 
+     - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> European Space Agency's Climate Change Initiative Land Cover data</a>
+     - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> Visible Infrared Imaging Radiometer Suite (VIIRS)</a>
   - Field collected vector data
      - <a href = "https://www.gadm.org"> GADM</a>
      - <a href = "https://www.openstreetmap.org/"> OSM</a>
