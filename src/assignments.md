@@ -59,16 +59,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
          - <a href = "https://www.nature.com/articles/s41599-019-0242-9.pdf"> Exploring the use of mobile phone data for national migration statistics</a> (Lai et al.)
          - <a href = "https://www.nature.com/articles/s41598-019-41192-3.pdf"> Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings</a> (Kraemer et al.)
      -  Impedance Model
-         - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)  
-
-         
-         
-
-## Data Interogation
-
-
-- Human Development Terms
-  - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
+         - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
 
 
 
