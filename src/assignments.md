@@ -51,6 +51,8 @@ in the absence of national population and housing census data</a> (Wardrop et al
          - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Mapping vaccination coverage to explore the effects of delivery mechanisms and inform vaccination strategies</a> (Utazi et al.)
      - Spline Interpolation
          - <a href = "https://pubmed.ncbi.nlm.nih.gov/30333244/"> Comparison of Spatial Interpolation Methods to Create High-Resolution Poverty Maps for Low- And Middle-Income Countries</a> (Wong, Brady, Campbell & Benova)
+     - Artificial Neural Networks
+         -  
   - Spatial Interaction Processes
      - Gravity Type Models
          - <a href = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052971"> The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
