@@ -22,14 +22,19 @@
      - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> European Space Agency's Climate Change Initiative Land Cover data</a>
      - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> Visible Infrared Imaging Radiometer Suite (VIIRS)</a>
  
-  - Political and built environment, field collected vector data
+  - Political and built environment, field collected and secondary sourced, vector data
      - <a href = "https://www.gadm.org"> Global Administrative Subdivisions (GADM)</a>
+     - <a href = "https://www.geoboundaries.org"> geoBoundaries</a>
      - <a href = "https://www.openstreetmap.org/"> Open Street Map</a>
-     - <a href = "https://ciesin.columbia.edu/data/hrsl/"> Center for International Earth Science Information Network - High Resolution Settlement Layer </a>
 
   - Population, demographic and development data 
      - <a href = "https://www.worldpop.org/"> WorldPop</a>
-     - 
+     - <a href = "https://ciesin.columbia.edu/data/hrsl/"> Center for International Earth Science Information Network - High Resolution Settlement Layer </a>
+     - <a href = "https://sedac.ciesin.columbia.edu/data/collection/gpw-v4"> Socioeconomic Data and Applications Center (SEDAC) - Gridded Population of the World (GPW), v4</a>
+     - <a href = "https://landscan.ornl.gov"> Oak Ridge National Laboratory (ORNL) - LandScan</a>
+
+     
+     
 
  - Population and Development data descriptions
      - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
