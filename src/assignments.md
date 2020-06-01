@@ -11,6 +11,25 @@
   - <a href = "https://www.youtube.com/watch?v=02EZPxPcFqs"> Development and Complexity</a> (Owen Barder, 2012)
   - <a href = "http://journals.sagepub.com/doi/pdf/10.1177/2053951714528481"> Big Data, New Epistemologies and Paradigm Shifts</a> (Rob Kitchin)
   - Scale (Geoff West, 2018)
+
+- Human Development data sources and descriptors
+  - <a href = "https://www.worldpop.org/"> WorldPop</a>
+     - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
+     - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
+  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
+in the absence of national population and housing census data</a> (Wardrop et al.)
+  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
+
+- Data Sources
+  - 
+  - <a href = "https://www.gadm.org"> GADM</a>
+  - <a href = "https://data.humdata.org"> HDX</a>  
+  - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
+  - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
+  - <a href = "https://www.openstreetmap.org/"> OSM</a>
+  - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
+
 - Data Science methods to describe Human Development patterns and processes
   - Dasymmetric Allocation Methods 
      - Random Forest Model
@@ -42,22 +61,7 @@
          
 
 ## Data Interogation
-- Data Descriptors
-  - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
-  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
-  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
-in the absence of national population and housing census data</a> (Wardrop et al.)
-  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
-  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
 
-- Data Sources
-  - <a href = "https://www.worldpop.org/"> WorldPop</a>
-  - <a href = "https://www.gadm.org"> GADM</a>
-  - <a href = "https://data.humdata.org"> HDX</a>  
-  - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
-  - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
-  - <a href = "https://www.openstreetmap.org/"> OSM</a>
-  - <a href = "https://ciesin.columbia.edu/data/hrsl/"> CIESN-HRSL</a>
 
 - Human Development Terms
   - <a href = "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519"> LMICs</a> (Worldbank)
