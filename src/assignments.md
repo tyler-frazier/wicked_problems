@@ -13,14 +13,16 @@
   - Scale (Geoff West, 2018)
 
 - Human Development data sources and descriptors
+  - Development data catalogs and exchanges
+     - <a href = "https://data.humdata.org"> The Humanitarian Data Exchange</a>
+     - <a href = "https://catalog.ihsn.org/"> International Household Survey Network</a>
   - Remotely sensed raster data 
      - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> ESACCI-LC</a>
      - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> VIIRS</a>
   - Field collected vector data
      - <a href = "https://www.gadm.org"> GADM</a>
      - <a href = "https://www.openstreetmap.org/"> OSM</a>
-  - Development data repositories
-     - <a href = "https://data.humdata.org"> HDX</a>
+
   - Population data 
      - <a href = "https://www.worldpop.org/"> WorldPop</a>
      - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
@@ -46,13 +48,12 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - Spatial Interpolation Methods
      - Hierarchical Bayesian Model
          - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
-         - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
          - <a href = "https://pubmed.ncbi.nlm.nih.gov/29454519/"> High Resolution Age-Structured Mapping of Childhood Vaccination Coverage in Low and Middle Income Countries</a> (Utazi et al.)
          - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Mapping vaccination coverage to explore the effects of delivery mechanisms and inform vaccination strategies</a> (Utazi et al.)
      - Spline Interpolation
          - <a href = "https://pubmed.ncbi.nlm.nih.gov/30333244/"> Comparison of Spatial Interpolation Methods to Create High-Resolution Poverty Maps for Low- And Middle-Income Countries</a> (Wong, Brady, Campbell & Benova)
      - Artificial Neural Networks
-         -  
+         - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2016.0825"> Exploring the high-resolution mapping of gender-disaggregated development indicators</a> (Bosco et al.)
   - Spatial Interaction Processes
      - Gravity Type Models
          - <a href = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052971"> The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales</a> (Wesolowski et al.)
