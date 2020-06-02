@@ -12,41 +12,48 @@
   - <a href = "http://journals.sagepub.com/doi/pdf/10.1177/2053951714528481"> Big Data, New Epistemologies and Paradigm Shifts</a> (Rob Kitchin)
   - Scale (Geoff West, 2018)
 
-- Human Development data sources and descriptors
-  - Development data catalogs and exchanges
-     - <a href = "https://data.humdata.org"> The Humanitarian Data Exchange</a>
-     - <a href = "https://catalog.ihsn.org/"> International Household Survey Network</a>
+- Population and development data descriptions
+  - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
+  - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
+  - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
+in the absence of national population and housing census data</a> (Wardrop et al.)
+  - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
+  - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
 
-  - Natural and environmental, remotely sensed raster data
+- Human Development Data Sources
+  - Development Data Exchanges
+     - <a href = "https://data.humdata.org"> The Humanitarian Data Exchange</a>
+
+  - Remotely sensed environmental data
      - <a href = "https://earthdata.nasa.gov"> NASA's Earth Science Data Systems</a> 
      - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> European Space Agency's Climate Change Initiative Land Cover data</a>
      - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> Visible Infrared Imaging Radiometer Suite (VIIRS)</a>
  
-  - Political boundaries
+  - Political boundaries and administrative subdivisions
      - <a href = "https://www.gadm.org"> Global Administrative Subdivisions (GADM)</a>
      - <a href = "https://www.geoboundaries.org"> geoBoundaries</a>
-     
 
-  - Population data 
-     - <a href = "https://www.worldpop.org/"> WorldPop</a>
-     - <a href = "https://ciesin.columbia.edu/data/hrsl/"> Center for International Earth Science Information Network - High Resolution Settlement Layer </a>
-     - <a href = "https://sedac.ciesin.columbia.edu/data/collection/gpw-v4"> Socioeconomic Data and Applications Center (SEDAC) - Gridded Population of the World (GPW), v4</a>
-     - <a href = "https://landscan.ornl.gov"> Oak Ridge National Laboratory (ORNL) - LandScan Global</a>
+  - Population and demographic estimates
+     - Population 
+         - <a href = "https://www.worldpop.org/"> WorldPop - Population</a>
+         - <a href = "https://ciesin.columbia.edu/data/hrsl/"> Center for International Earth Science Information Network - High Resolution Settlement Layer </a>
+         - <a href = "https://sedac.ciesin.columbia.edu/data/collection/gpw-v4"> Socioeconomic Data and Applications Center (SEDAC) - Gridded Population of the World (GPW), v4</a>
+         - <a href = "https://landscan.ornl.gov"> Oak Ridge National Laboratory (ORNL) - LandScan Global</a>
+         - <a href = "https://www.popgrid.org"> POPGRID Data Collaborative</a>
+     - Demography
+         - <a href = "https://www.worldpop.org/project/categories?id=8"> WorldPop - Age and Sex Structure</a>
+         - <a href = "https://spatialdata.dhsprogram.com/modeled-surfaces/"> DHS Spatial Data Repository - Modeled Surfaces</a>
  
- 		- Demographic data  
- 
- 		- Built Environment including settlements, facilities and infrastructures
- 			 - <a href = "https://www.openstreetmap.org/"> Open Street Map</a>
-     
-     
+  - Primary census and household survey data
+     - <a href = "https://dhsprogram.com"> Demographic and Health Surveys (DHS)</a>
+     - <a href = "https://catalog.ihsn.org/"> International Household Survey Network (IHSN) </a>
+     - <a href = "https://ipums.org"> Integrated Public Use Microdata Series (IPUMS)</a>
 
- - Population and Development data descriptions
-     - <a href = "https://www.nature.com/articles/sdata20174"> WorldPop, open data for spatial demography</a> (Tatem)
-     - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283062/"> High resolution global gridded data for use in population studies</a> (Lloyd, Sorichetta & Tatem)
-     - <a href = "https://www.pnas.org/content/pnas/115/14/3529.full.pdf"> Spatially disaggregated population estimates
-in the absence of national population and housing census data</a> (Wardrop et al.)
-     - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
-     - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
+  - Built environment including settlements, facilities and infrastructures
+     - <a href = "https://www.openstreetmap.org/"> Open Street Map</a>
+
+  - Call Detail Records
+     - <a href = "https://flowkit.xyz"> FlowKit</a>
 
 - Data Science methods to describe Human Development patterns and processes
   - Dasymmetric Allocation Methods 
@@ -59,6 +66,8 @@ in the absence of national population and housing census data</a> (Wardrop et al
          - <a href = "https://www.sciencedirect.com/science/article/pii/S0198971517304210"> Identifying residential neighbourhood types from settlement points in a machine learning approach</a> (Jochem, Bird & Tatem)
   - Spatial Interpolation Methods
      - Hierarchical Bayesian Model
+         - <a href = "https://dhsprogram.com/publications/publication-SAR14-Spatial-Analysis-Reports.cfm"> Guidance for Use of The DHS Program Modeled Map Surfaces</a>
+         - <a href = "https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm"> Creating Spatial Interpolation Surfaces with DHS Data</a>
          - <a href = "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073"> Fine resolution mapping of population age-structures for health and development applications</a> (Alegana et al.)
          - <a href = "https://pubmed.ncbi.nlm.nih.gov/29454519/"> High Resolution Age-Structured Mapping of Childhood Vaccination Coverage in Low and Middle Income Countries</a> (Utazi et al.)
          - <a href = "https://www.nature.com/articles/s41467-019-09611-1"> Mapping vaccination coverage to explore the effects of delivery mechanisms and inform vaccination strategies</a> (Utazi et al.)
