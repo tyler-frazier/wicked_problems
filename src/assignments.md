@@ -23,37 +23,30 @@ in the absence of national population and housing census data</a> (Wardrop et al
 - Human Development Data Sources
   - Development Data Exchanges
      - <a href = "https://data.humdata.org"> The Humanitarian Data Exchange</a>
-
   - Remotely sensed environmental data
      - <a href = "https://earthdata.nasa.gov"> NASA's Earth Science Data Systems</a> 
      - <a href = "https://maps.elie.ucl.ac.be/CCI/viewer/"> European Space Agency's Climate Change Initiative Land Cover data</a>
      - <a href = "https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html"> Visible Infrared Imaging Radiometer Suite (VIIRS)</a>
- 
   - Political boundaries and administrative subdivisions
      - <a href = "https://www.gadm.org"> Global Administrative Subdivisions (GADM)</a>
      - <a href = "https://www.geoboundaries.org"> geoBoundaries</a>
-
-  - Population and demographic estimates
-     - Population 
-         - <a href = "https://www.worldpop.org/"> WorldPop - Population</a>
-         - <a href = "https://ciesin.columbia.edu/data/hrsl/"> Center for International Earth Science Information Network - High Resolution Settlement Layer </a>
-         - <a href = "https://sedac.ciesin.columbia.edu/data/collection/gpw-v4"> Socioeconomic Data and Applications Center (SEDAC) - Gridded Population of the World (GPW), v4</a>
-         - <a href = "https://landscan.ornl.gov"> Oak Ridge National Laboratory (ORNL) - LandScan Global</a>
-         - <a href = "https://www.popgrid.org"> POPGRID Data Collaborative</a>
-     - Demography
-         - <a href = "https://www.worldpop.org/project/categories?id=8"> WorldPop - Age and Sex Structure</a>
-         - <a href = "https://spatialdata.dhsprogram.com/modeled-surfaces/"> DHS Spatial Data Repository - Modeled Surfaces</a>
- 
-  - Primary census and household survey data
+  - Population estimates
+     - <a href = "https://www.worldpop.org/"> WorldPop - Population</a>
+     - <a href = "https://ciesin.columbia.edu/data/hrsl/"> Center for International Earth Science Information Network - High Resolution Settlement Layer </a>
+     - <a href = "https://sedac.ciesin.columbia.edu/data/collection/gpw-v4"> Socioeconomic Data and Applications Center (SEDAC) - Gridded Population of the World (GPW), v4</a>
+     - <a href = "https://landscan.ornl.gov"> Oak Ridge National Laboratory (ORNL) - LandScan Global</a>
+     - <a href = "https://www.popgrid.org"> POPGRID Data Collaborative</a>
+   - Demographic estimates
+     - <a href = "https://www.worldpop.org/project/categories?id=8"> WorldPop - Age and Sex Structure</a>
+     - <a href = "https://spatialdata.dhsprogram.com/modeled-surfaces/"> DHS Spatial Data Repository - Modeled Surfaces</a>
+   - Primary census and household survey data
      - <a href = "https://dhsprogram.com"> Demographic and Health Surveys (DHS)</a>
-     - <a href = "https://catalog.ihsn.org/"> International Household Survey Network (IHSN) </a>
+     - <a href = "https://catalog.ihsn.org/"> International Household Survey Network (IHSN)</a>
      - <a href = "https://ipums.org"> Integrated Public Use Microdata Series (IPUMS)</a>
-
-  - Built environment including settlements, facilities and infrastructures
+   - Built environment including settlements, facilities and infrastructures
      - <a href = "https://www.openstreetmap.org/"> Open Street Map</a>
-
-  - Call Detail Records
-     - <a href = "https://flowkit.xyz"> FlowKit</a>
+   - Population movement data
+     - <a href = "https://flowkit.xyz"> FlowKit - Call Detail Records</a>
 
 - Data Science methods to describe Human Development patterns and processes
   - Dasymmetric Allocation Methods 
