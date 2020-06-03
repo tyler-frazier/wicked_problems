@@ -53,7 +53,7 @@ in the absence of national population and housing census data</a> (Wardrop et al
   - <a href = "https://www.nature.com/articles/s41598-018-22969-4"> Mapping road network communities for guiding disease surveillance and control strategies</a> (Strano, Viana, Sorichetta & Tatem)
   - <a href = "https://www.nature.com/articles/s41597-019-0142-2"> A spatial database of health facilities managed by the public health sector in sub Saharan Africa</a> (Maina et al.)
 
-## Methods
+## Methods: application
 - Dasymmetric Allocation
   - Random Forest Model
      - <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable"> Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data</a> (Stevens, Gaughan, Linard & Tatem)
@@ -82,6 +82,8 @@ in the absence of national population and housing census data</a> (Wardrop et al
      - <a href = "https://www.nature.com/articles/s41598-019-41192-3.pdf"> Utilizing general human movement models to predict the spread of emerging infectious diseases in resource poor settings</a> (Kraemer et al.)
   -  Impedance Model
      - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
+
+## Methods: instruction
 
 
 
