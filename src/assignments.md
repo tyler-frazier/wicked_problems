@@ -83,9 +83,6 @@ in the absence of national population and housing census data</a> (Wardrop et al
   -  Impedance Model
      - <a href = "https://ij-healthgeographics.biomedcentral.com/track/pdf/10.1186/s12942-017-0115-7"> Mathematical models for predicting human mobility in the context of infectious disease spread: introducing the impedance model</a> (Sallah et al.)
 
-## Methods: instruction
-
-
 
 
 
