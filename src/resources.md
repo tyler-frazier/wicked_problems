@@ -20,7 +20,7 @@
   - <a href = "https://www.geoboundaries.org"> geoBoundaries</a>
 - Population estimates
   - <a href = "https://www.worldpop.org/"> WorldPop - Population</a>
-  - <a href = "https://ciesin.columbia.edu/data/hrsl/"> Center for International Earth Science Information Network - High Resolution Settlement Layer </a>
+  - <a href = "https://data.humdata.org/organization/facebook"> Center for International Earth Science Information Network / Facebook Data for Good - High Resolution Settlement Layer </a>
   - <a href = "https://sedac.ciesin.columbia.edu/data/collection/gpw-v4"> Socioeconomic Data and Applications Center (SEDAC) - Gridded Population of the World (GPW), v4</a>
   - <a href = "https://landscan.ornl.gov"> Oak Ridge National Laboratory (ORNL) - LandScan Global</a>
   - <a href = "https://www.popgrid.org"> POPGRID Data Collaborative</a>
@@ -33,6 +33,11 @@
   - <a href = "https://ipums.org"> Integrated Public Use Microdata Series (IPUMS)</a>
 - Built environment including settlements, facilities and infrastructures
   - <a href = "https://www.openstreetmap.org/"> Open Street Map</a>
+  - <a href = "https://github.com/facebookmicrosites/Open-Mapping-At-Facebook/wiki/Available-Countries"> Open Mapping at Facebook, AI-Detected Missing Roads</a>
+  - <a href = "https://grid3.org"> GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development) - Settlement Extents</a>
+  - <a href = "https://data.humdata.org/organization/healthsites"> Global Healthsites Mapping Project</a>
+  - <a href = "https://export.hotosm.org/en/v3/"> Humanitarian Open Street Map Team</a>
+  - <a href = "https://www.geofabrik.de"> Geofabrik</a>
 - Population movement data
   - <a href = "https://flowkit.xyz"> FlowKit - Call Detail Records</a>
 
