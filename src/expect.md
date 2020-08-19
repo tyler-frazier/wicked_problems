@@ -26,8 +26,6 @@ note .9 = .9 with bar notation
 
 |    |    |    |
 | --- | --- | --- |
-| Class & Group Participation | 20% | Individually graded, twice per semester |
-| Three Informal Group Presentations | 10% | Fridays during weeks 5, 8 & 11 |
-| Four Individual Projects | 40% | Due at the end of weeks 5, 8, 11 & 14 |
-| Final Group Presentation | 10% | Week 15 |
-| Final Individual Project | 20% | due by 5PM Wednesday, May 13th |
+| Ten Data Science reflections | 30% | Due each Friday |
+| Five Individual Projects | 50% | Due every other Saturday |
+| Final Project | 20% | due by 5PM Tuesday, November 24th |
