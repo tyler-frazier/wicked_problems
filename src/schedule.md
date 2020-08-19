@@ -12,7 +12,7 @@
 - Wednesday:
 	- Getting started
 - Friday: add/drop period ends
-	- Data Science Reflections
+	- Getting started
 
 ## Week 3 (August 31st)
 - Monday:
@@ -20,7 +20,7 @@
 - Wednesday:
 	- Project 1 
 - Friday:
-	- Data Science Reflections
+	- Project 1
 
 ## Week 4 (September 7th) 
 - Monday:
@@ -38,7 +38,7 @@
 - Wednesday:
 	- Project 2 
 - Friday: 
-	- Data Science Reflections
+	- Project 2
 
 ## Week 6 (September 21st)
 - Monday:
@@ -56,7 +56,7 @@
 - Wednesday:
 	- Project 3 
 - Friday: 
-	- Data Science Reflections
+	- Project 3
 
 ## Week 8 (October 5th)
 - Monday:
@@ -74,7 +74,7 @@
 - Wednesday:
 	- Project 4 
 - Friday: 
-	- Data Science Reflections
+	- Project 4
 
 ## Week 10 (October 19th)
 - Monday:
@@ -92,7 +92,7 @@
 - Wednesday:
 	- Project 5 
 - Friday: 
-	- Data Science Reflections
+	- Project 5
 
 ## Week 12 (November 2nd)
 - Monday:
@@ -100,7 +100,7 @@
 - Wednesday:
 	- Project 5 
 - Friday: 
-	- Project 5
+	- Data Science Reflections
 - Saturday
 	- Project 5 due 
 

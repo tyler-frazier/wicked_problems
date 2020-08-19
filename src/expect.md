@@ -26,6 +26,6 @@ note .9 = .9 with bar notation
 
 |    |    |    |
 | --- | --- | --- |
-| Ten Data Science reflections | 30% | Due each Friday |
+| Five Data Science reflections | 25% | Due every other Friday |
 | Five Individual Projects | 50% | Due every other Saturday |
-| Final Project | 20% | due by 5PM Tuesday, November 24th |
+| Final Project | 25% | due by 5PM Tuesday, November 24th |
