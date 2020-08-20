@@ -2,7 +2,10 @@
 
 ## Week 1 (August 19th)
 - Wednesday: first day of class
-	- Introductions, zoom, slack, github, R & RStudio 
+	- Introductions, zoom, slack, github, R & RStudio
+	- For next time:
+		- [Getting Started with GitHub](https://tyler-frazier.github.io/dsbook/gitstart.html)
+		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
 - Friday:
 	- Getting started
 
