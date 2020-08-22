@@ -5,13 +5,16 @@
 	- Introductions, zoom, slack, github, R & RStudio
 	- For next time:
 		- [Getting Started with GitHub](https://tyler-frazier.github.io/dsbook/gitstart.html)
-		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
+		- [What is R](https://tyler-frazier.github.io/dsbook/rstart.html#what-is-r)
 - Friday:
-	- Getting started
+	- For next time:
+		- [Getting Started with RStudio & R](https://tyler-frazier.github.io/dsbook/rstart.html#getting-started-with-rstudio--r) 
+		- [Creating and Plotting Objects](https://tyler-frazier.github.io/dsbook/rstart.html#creating-and-plotting-objects)
+		- Create a markdown file that includes your line plot and a brief explanation; include a link to this file on your GitHub index page
 
 ## Week 2 (August 24st)
 - Monday: 
-	- Getting started
+	- Compile index of GitHub sites
 - Wednesday:
 	- Getting started
 - Friday: add/drop period ends
