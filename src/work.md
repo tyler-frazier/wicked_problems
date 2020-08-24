@@ -1,4 +1,4 @@
 # Links to Responses
 
-- [Your Name](https://user.github.io/repo/)
+- [Amanda Michel](https://amandamichel.github.io/wicked-problems/)
 
