@@ -15,6 +15,8 @@
 ## Week 2 (August 24st)
 - Monday: 
 	- Compile index of GitHub sites
+	- For next time: 
+		- [Creating a More Complicated Plot while also creating and then using a Data Frame](https://tyler-frazier.github.io/dsbook/rstart.html#creating-a-more-complicated-plot-while-also-creating-and-then-using-a-data-frame)
 - Wednesday:
 	- Getting started
 - Friday: add/drop period ends
