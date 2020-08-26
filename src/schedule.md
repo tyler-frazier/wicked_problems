@@ -18,7 +18,11 @@
 	- For next time: 
 		- [Creating a More Complicated Plot while also creating and then using a Data Frame](https://tyler-frazier.github.io/dsbook/rstart.html#creating-a-more-complicated-plot-while-also-creating-and-then-using-a-data-frame)
 - Wednesday:
-	- Getting started
+	- Review GitHub Pages, add a brief introduction to your README.md
+	- Do challenge question from Monday
+	- For next time:
+		- [Data Management Basics](https://slack-files.com/TFB8EJWF3-F019JQ9AK1R-2213e6afb8)
+		- Find data on our team slack chat channel (posted immediately following the above instruction document)
 - Friday: add/drop period ends
 	- Getting started
 
