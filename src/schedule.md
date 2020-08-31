@@ -40,7 +40,7 @@
 - Wednesday:
 	- Project 1, Part 2:
 - Friday: 
-	- Data Science Reflections
+	- Data Science Reflections: Select and then investigate a new and interesting data science method.  Write a brief introduction  to the method including describing how it functions as well as one or two applications.  Post your maximum 1 page in length reflection piece to your GitHub Pages site and be sure to link it back to your index.  Be prepared to make a 5 minute presentation on your data science reflection during class.
 - Saturday
 	- Project 1, Parts 1 & 2 due by 5PM
 
