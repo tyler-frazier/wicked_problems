@@ -17,10 +17,9 @@
 - [Matthew Villca-Rocha](https://mvillcarocha.github.io/Data-100-Wicked-Problems-Villca-Rocha/)
 - [Victor Gedeck](https://victorgedeck.github.io/data100/)
 - [Sofia Huang](https://sofia-huang.github.io/Wicked-Problems/)
-- [Morgan Carr](https://morgan-carr.github.io/first-assignment)
+- [Morgan Carr](https://morgan-carr.github.io/wicked_problems/)
 - [Jade Haas](https://jadeh2.github.io/data100/)
 - [DJ Olson](https://github.com/DJ-Olson/data100)
 - [Julia Rashid](https://https://juliarashid.github.io/Data-100/)
-- [Evelyn Dibell](https://evelyndibell.github.io/rstudio_practice/)
 - [Stephanie Schefer](https://stephanie-schefer.github.io/Wicked_Problems/)
 
