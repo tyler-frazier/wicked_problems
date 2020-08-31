@@ -28,21 +28,21 @@
 
 ## Week 3 (August 31st)
 - Monday:
-	- Project 1 
+	- Project 1, Part 1: [Data Management Basics: Merging, Categorizing & the Grammar of Graphics](https://slack-files.com/TFB8EJWF3-F019TFF70HZ-8663c8260b) 
 - Wednesday:
-	- Project 1 
+	- Project 1, Part 1: [Data Management Basics: Merging, Categorizing & the Grammar of Graphics](https://slack-files.com/TFB8EJWF3-F019TFF70HZ-8663c8260b) 
 - Friday:
-	- Project 1
+	- Project 1, Part 1: [Data Management Basics: Merging, Categorizing & the Grammar of Graphics](https://slack-files.com/TFB8EJWF3-F019TFF70HZ-8663c8260b) 
 
 ## Week 4 (September 7th) 
 - Monday:
-	- Project 1 
+	- Project 1, Part 2:
 - Wednesday:
-	- Project 1 
+	- Project 1, Part 2:
 - Friday: 
 	- Data Science Reflections
 - Saturday
-	- Project 1 due 
+	- Project 1, Parts 1 & 2 due by 5PM
 
 ## Week 5 (September 14th)
 - Monday:
