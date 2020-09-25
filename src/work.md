@@ -23,4 +23,5 @@
 - [Julia Rashid](https://juliarashid.github.io/Data-100/)
 - [Stephanie Schefer](https://stephanie-schefer.github.io/Wicked_Problems/)
 - [Alex Washington](https://awashington01.github.io/alex_repo/)
+- [Jessica Chen](https://jesschen16.github.io/Data100/)
 
