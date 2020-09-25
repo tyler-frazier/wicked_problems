@@ -46,31 +46,39 @@
 
 ## Week 5 (September 14th)
 - Monday:
-	- Project 2 
+	- Project 1 - extension 
 - Wednesday:
-	- Project 2 
+	- [Project 2, Part 1](https://slack-files.com/TFB8EJWF3-F01ATNXFC3V-040a6446c6)
 - Friday: 
-	- Project 2
+	- [Project 2, Part 1](https://slack-files.com/TFB8EJWF3-F01ATNXFC3V-040a6446c6)
 
 ## Week 6 (September 21st)
 - Monday:
-	- Project 2 
+	- [Project 2, Part 1](https://slack-files.com/TFB8EJWF3-F01ATNXFC3V-040a6446c6) 
 - Wednesday:
-	- Project 2 
+	- [Project 2, Part 2](https://slack-files.com/TFB8EJWF3-F01ATTF0E9M-30a8035e4d)
+- Friday: 
+	- [Project 2, Part 2](https://slack-files.com/TFB8EJWF3-F01ATTF0E9M-30a8035e4d)
+
+## Week 7 (September 28th)
+- Monday:
+	- [Project 2, Part 3](...)
+- Wednesday:
+	- [Project 2, Part 3](...)
 - Friday: 
 	- Data Science Reflections
 - Saturday
 	- Project 2 due 
 
-## Week 7 (September 28th)
+## Week 8 (October 5th)
 - Monday:
 	- Project 3 
 - Wednesday:
 	- Project 3 
-- Friday: 
-	- Project 3
+- Friday:
+	- Project 3 
 
-## Week 8 (October 5th)
+## Week 9 (October 12th)
 - Monday:
 	- Project 3 
 - Wednesday:
@@ -80,15 +88,15 @@
 - Saturday
 	- Project 3 due 
 
-## Week 9 (October 12th)
+## Week 10 (October 19th)
 - Monday:
 	- Project 4 
 - Wednesday:
 	- Project 4 
-- Friday: 
-	- Project 4
+- Friday:
+	- Project 4 
 
-## Week 10 (October 19th)
+## Week 11 (October 26th)
 - Monday:
 	- Project 4 
 - Wednesday:
@@ -98,7 +106,7 @@
 - Saturday
 	- Project 4 due 
 
-## Week 11 (October 26th)
+## Week 12 (November 2nd)
 - Monday:
 	- Project 5 
 - Wednesday:
@@ -106,25 +114,16 @@
 - Friday: 
 	- Project 5
 
-## Week 12 (November 2nd)
-- Monday:
-	- Project 5 
-- Wednesday:
-	- Project 5 
-- Friday: 
-	- Data Science Reflections
-- Saturday
-	- Project 5 due 
-
 ## Week 13 (November 9th)
 - Monday: 
-	- Final project
+	- Project 5
 - Wednesday: 
-	- Final project
+	- Project 5
 - Friday: last day of class
-	- Final project 	
-
+	- Data Science Reflections 
+	
 ## Final
+- Final project 
 
 
 
