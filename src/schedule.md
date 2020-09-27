@@ -62,9 +62,9 @@
 
 ## Week 7 (September 28th)
 - Monday:
-	- [Project 2, Part 3](...)
+	- [Project 2, Part 3](https://slack-files.com/TFB8EJWF3-F01BV2RSYEM-bda7f362fc)
 - Wednesday:
-	- [Project 2, Part 3](...)
+	- [Project 2, Part 3](https://slack-files.com/TFB8EJWF3-F01BV2RSYEM-bda7f362fc)
 - Friday: 
 	- Data Science Reflections
 - Saturday
