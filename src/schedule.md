@@ -67,8 +67,8 @@
 	- [Project 2, Part 3](https://slack-files.com/TFB8EJWF3-F01BV2RSYEM-bda7f362fc)
 - Friday: 
 	- Data Science Reflections
-- Saturday
-	- Project 2 due 
+- Sunday
+	- Project 2 due (by midnight)
 
 ## Week 8 (October 5th)
 - Monday:
