@@ -72,19 +72,27 @@
 
 ## Week 8 (October 5th)
 - Monday:
-	- Project 3 
+	- [Project 3, Part 1](https://tyler-frazier.github.io/dsbook/describe.html)
+		- [Team Challenge Question](https://tyler-frazier.github.io/dsbook/describe.html#team-challenge-question) but do it individually
 - Wednesday:
-	- Project 3 
+	- [Project 3, Part 1](https://tyler-frazier.github.io/dsbook/describe.html)
+		- [Team Challenge Question](https://tyler-frazier.github.io/dsbook/describe.html#team-challenge-question) but do it individually
 - Friday:
-	- Project 3 
+	- [Project 3, Part 1](https://tyler-frazier.github.io/dsbook/describe.html)
+		- [Team Challenge Question](https://tyler-frazier.github.io/dsbook/describe.html#team-challenge-question) but do it individually 
 
 ## Week 9 (October 12th)
 - Monday:
-	- Project 3 
+	- [Project 3, Part 2](https://tyler-frazier.github.io/dsbook/describe.html)
+		- [Stretch Goals 2 & 3](https://tyler-frazier.github.io/dsbook/describe.html#individual-stretch-goal-2) but do them individually  
 - Wednesday:
-	- Project 3 
-- Friday: 
+	- [Project 3, Part 2](https://tyler-frazier.github.io/dsbook/describe.html)
+		- [Stretch Goals 2 & 3](https://tyler-frazier.github.io/dsbook/describe.html#individual-stretch-goal-2) but do them individually  
+- Friday:
+	- [Project 3, Part 2](https://tyler-frazier.github.io/dsbook/describe.html)
+		- [Stretch Goals 2 & 3](https://tyler-frazier.github.io/dsbook/describe.html#individual-stretch-goal-2) but do them individually
 	- Data Science Reflections
+		- please upload to your index, no presentation at this time 
 - Saturday
 	- Project 3 due 
 
