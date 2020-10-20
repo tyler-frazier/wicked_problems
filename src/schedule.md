@@ -98,19 +98,26 @@
 
 ## Week 10 (October 19th)
 - Monday:
-	- Project 4 
+	- Project 4: Extracting Populations from a Raster and Aggregating to each Unit
+		- [Challenge Question](https://tyler-frazier.github.io/dsbook/describe.html#extracting-populations-from-a-raster-and-aggregating-to-each-unit)
 - Wednesday:
-	- Project 4 
-- Friday:
-	- Project 4 
+	- Project 4: Extracting Populations from a Raster and Aggregating to each Unit
+		- [Challenge Question](https://tyler-frazier.github.io/dsbook/describe.html#extracting-populations-from-a-raster-and-aggregating-to-each-unit)
+- Friday: 
+	- Project 4: Extracting Populations from a Raster and Aggregating to each Unit
+		- [Stretch Goals 1, 2 & 3](https://tyler-frazier.github.io/dsbook/describe.html#extracting-populations-from-a-raster-and-aggregating-to-each-unit)  
 
 ## Week 11 (October 26th)
 - Monday:
-	- Project 4 
+	- Project 4: Creating a Geometric Bar Plot with your Simple Feature object
+		- [Individual Deliverable](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
 - Wednesday:
-	- Project 4 
+	- Project 4: Creating a Geometric Bar Plot with your Simple Feature object
+		- [Individual Deliverable](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object) 
 - Friday: 
 	- Data Science Reflections
+	- Project 4: Creating a Geometric Bar Plot with your Simple Feature object
+		- [Stretch Goals 1 & 2](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
 - Saturday
 	- Project 4 due 
 
