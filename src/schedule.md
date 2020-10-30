@@ -118,8 +118,8 @@
 	- Data Science Reflections
 	- Project 4: Creating a Geometric Bar Plot with your Simple Feature object
 		- [Stretch Goals 1 & 2](https://tyler-frazier.github.io/dsbook/describe.html#creating-a-geometric-bar-plot-with-your-simple-feature-object)
-- Saturday
-	- Project 4 due 
+- Sunday
+	- Project 4 due (midnight)
 
 ## Week 12 (November 2nd)
 - Monday:
