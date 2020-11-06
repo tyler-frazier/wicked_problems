@@ -123,7 +123,7 @@
 
 ## Week 12 (November 2nd)
 - Monday:
-	- Project 5 
+	- [Project 5](https://tyler-frazier.github.io/dsbook/describe.html#acquiring-modifying-and-describing-the-data) 
 - Wednesday:
 	- Project 5 
 - Friday: 
@@ -131,14 +131,20 @@
 
 ## Week 13 (November 9th)
 - Monday: 
-	- Project 5
+	- Begin final project
+		- [Accessibility 1](https://tyler-frazier.github.io/dsbook/defacto_descript.html)
+		- [Accessibility 2](https://tyler-frazier.github.io/dsbook/transport_health.html)
+		- [Accessibility 3](https://tyler-frazier.github.io/dsbook/topography.html)
 - Wednesday: 
-	- Project 5
+	- Project 5 due
 - Friday: last day of class
 	- Data Science Reflections 
 	
 ## Final
-- Final project 
+- Final project, November 24th at 5PM
+	- Accessibility 1 (Team Challenge Question)
+	- Accessibility 2 (Individual Deliverable)
+	- Accessibility 3 (Individual and Group Deliverable)
 
 
 
