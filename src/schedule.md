@@ -136,7 +136,7 @@
 		- [Accessibility 2](https://tyler-frazier.github.io/dsbook/transport_health.html)
 		- [Accessibility 3](https://tyler-frazier.github.io/dsbook/topography.html)
 - Wednesday: 
-	- Project 5 due
+	- Project 5 due (Team Challenge Question)
 - Friday: last day of class
 	- Data Science Reflections 
 	
