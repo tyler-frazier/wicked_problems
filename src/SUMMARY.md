@@ -1,5 +1,5 @@
 # Syllabus
-[Course Description](syllabus.md)
+[Course Description](syllabus1.md)
 [Semester Schedule](schedule.md)
 [Resources](resources.md)
 
