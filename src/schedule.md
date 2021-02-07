@@ -9,11 +9,13 @@
 - Friday:
 	- Using GitHub & Markdown
 	- For next time:
-		- [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
+		- [Installing R & RStudio](https://tyler-frazier.github.io/dsbook/rinstall.html)
 	
 ## Week 2 (2/1)
 - Monday:
 	- Using RStudio
+	- For next time:
+	  - [Getting Started with R & RStudio](https://tyler-frazier.github.io/dsbook/rstart.html)
 - Wednesday:
 	- Using RStudio
 - Friday: add/drop period ends
