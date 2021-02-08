@@ -23,9 +23,9 @@
 
 ## Week 3 (2/8)
 - Monday:
-	- Project 1.1
+	- Project 1.1 [Projecting, Plotting and Labelling Administrative Subdivisions](https://tyler-frazier.github.io/dsbook/describe.html#projecting-plotting-and-labelling-administrative-subdivisions)
 - Wednesday:
-	- Project 1.1
+	- Project 1.1 continued
 - Friday: Spring Break Day, No Class (2/12)
 
 ## Week 4 (2/15)
