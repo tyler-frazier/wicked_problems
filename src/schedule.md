@@ -36,8 +36,12 @@
 - Friday:
 	- Data Science Reflection #1 [Don’t forget people in the use of big data for development, Joshua Blumenstock.  Nature: Sept. 10, 2018](https://www.nature.com/articles/d41586-018-06215-5)
 - Sunday: Project 1 due at midnight
-	- Challenge Question
-	- Stretch Goals 1, 2 & 3
+	- Project 1 deliverable:
+		- [Challenge Question](https://tyler-frazier.github.io/dsbook/describe.html#challenge-question)
+	- Project 1 extra credit:
+	  	- [Stretch Goal 1](https://tyler-frazier.github.io/dsbook/describe.html#stretch-goal-1)
+		- [Stretch Goal 2](https://tyler-frazier.github.io/dsbook/describe.html#stretch-goal-2)
+		- [Stretch Goal 3](https://tyler-frazier.github.io/dsbook/describe.html#stretch-goal-3)
 	
 ## Week 5 (2/22)
 - Monday:
