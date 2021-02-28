@@ -21,7 +21,6 @@
 - [Reese Chen](https://reesehuiyuchen.github.io/data_100_wickedproblems/)
 - [Annabel Richter](https://amartrics.github.io/data-100/)
 - [Daniel McArthur](https://dgmcarthur.github.io/DATA100/)
-- [Annabel Richter](https://amartrics.github.io/data-100/)
 - [Quanhan Zhou](https://quanhanzhou.github.io/data100repository/)
 - [Jungmin Shin](https://daramji777.github.io/Data100/)
 - [Elizabeth Eid](https://elizabethe56.github.io/data100_workshop/)
