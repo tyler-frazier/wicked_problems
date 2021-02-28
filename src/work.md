@@ -12,7 +12,7 @@
 - [Kevin Wu](https://kevinypw.github.io/Data100/)
 - [Christina Mauer](https://christinamauer.github.io/data100/)
 - [Michelle Zhou](https://miichellezhou.github.io/data100repository/)
-- [Chris Mize](https://github.com/cfmize/data100repository)
+- [Chris Mize](https://cfmize.github.io/data100repository/)
 - [Jerry Hu](https://yhu19.github.io/data100repository/)
 - [Haozheng Xu](https://haozhengxu.github.io/DATA-100-Repository/)
 - [Kenzie Evan](https://etkenzie.github.io/data100repository/)
