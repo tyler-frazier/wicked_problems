@@ -7,7 +7,7 @@
 - [Kirill Usubyan](https://kirilldogu.github.io/data_100/)
 - [Nick Zehnle](https://nazehnle.github.io/DATA100/)
 - [Xingyu Wang](https://xingyu-wang02.github.io/DATA-100/)
-- [Anna Peterson](https://annapeterson13.github.io/First-RepositoryDATA100/)
+- [Anna Peterson](https://annapeterson13.github.io/FirstRepositoryDATA100/)
 - [Quyen Tran](https://quyenbea.github.io/data100/)
 - [Kevin Wu](https://kevinypw.github.io/Data100/)
 - [Christina Mauer](https://christinamauer.github.io/data100/)
