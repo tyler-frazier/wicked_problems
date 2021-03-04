@@ -120,7 +120,8 @@
 - Wednesday:
 	- Project 4
 - Friday:
-	- Project 4
+	- Data Science Reflection #4
+- Sunday: Project 4 due at midnight
 
 ## Week 13 (4/19)
 - Monday:
@@ -135,7 +136,8 @@
 - Wednesday:
 	- Project 5
 - Friday:
-	- Project 5
+	- Project 5 
+- Sunday: Project 5 due at midnight
 
 ## Week 15 (5/3)
 - Monday:
@@ -143,7 +145,7 @@
 - Wednesday:
 	- Final Project
 - Friday: Last day of class
-	- Final Project
+	- Data Science Reflection #5
 	
 ## Final
 - Final Project is due on the last day of the finals period at 5PM.
