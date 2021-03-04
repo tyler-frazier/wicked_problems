@@ -101,41 +101,41 @@
 
 ## Week 10 (3/29)
 - Monday:
-	- Project 3.2
+	- Project 4
 - Wednesday:
-	- Project 3.2
+	- Project 4
 - Friday:
-	- Project 3.2
+	- Project 4
 
 ## Week 11 (4/5)
 - Monday:
-	- Project 3.3
+	- Project 4
 - Wednesday: Spring Break Day, No Class (4/7)
 - Friday:
-	- Project 3.3
+	- Project 4
 
 ## Week 12 (4/12)
 - Monday:
-	- Project 4.1
+	- Project 4
 - Wednesday:
-	- Project 4.1
+	- Project 4
 - Friday:
-	- Project 4.1
+	- Project 4
 
 ## Week 13 (4/19)
 - Monday:
-	- Project 4.2
+	- Project 5
 - Wednesday:
-	- Project 4.2
+	- Project 5
 - Friday:
-	- Project 4.2
+	- Project 5
 
 ## Week 14 (4/26)
 - Monday: Spring Break Day, No Class
 - Wednesday:
-	- Project 4.3
+	- Project 5
 - Friday:
-	- Project 4.3
+	- Project 5
 
 ## Week 15 (5/3)
 - Monday:
