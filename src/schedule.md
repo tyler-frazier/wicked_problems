@@ -91,6 +91,7 @@
 	- Project 3 [Modeling & Predicting Spatial Values](https://tyler-frazier.github.io/dsbook/model.html#modeling--predicting-spatial-values)
 - Friday:
 	- Data Science Reflection #3
+		- [Development and Complexity by Owen Barder](https://www.youtube.com/watch?v=02EZPxPcFqs)
 - Sunday: Project 3 due at midnight
 	- Project 3 Deliverables:
 		- [Challenge Question 1](https://tyler-frazier.github.io/dsbook/describe.html#challenge-question-2)
