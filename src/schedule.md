@@ -96,8 +96,8 @@
 	- Project 3 Deliverables:
 		- [Challenge Question 1](https://tyler-frazier.github.io/dsbook/describe.html#challenge-question-2)
 		- [Challenge Question 2](https://tyler-frazier.github.io/dsbook/model.html#team-challenge-question)
-		- [Challenge Question 3](https://tyler-frazier.github.io/dsbook/model.html#team-challenge-question-1)
 	- Project 3 Extra Credit:
+	  	- [Challenge Question 3](https://tyler-frazier.github.io/dsbook/model.html#team-challenge-question-1)
 		- [Stretch Goal 1](https://tyler-frazier.github.io/dsbook/model.html#individual-stretch-goal-1)
 
 ## Week 10 (3/29)
