@@ -86,9 +86,9 @@
 
 ## Week 9 (3/22)
 - Monday:
-	- Project 3 [Modeling & Predicting Spatial Values](https://tyler-frazier.github.io/dsbook/model.html#modeling--predicting-spatial-values)
+	- Stretch Goal
 - Wednesday:
-	- Project 3 [Modeling & Predicting Spatial Values](https://tyler-frazier.github.io/dsbook/model.html#modeling--predicting-spatial-values)
+	- Stretch Goal
 - Friday:
 	- Data Science Reflection #3
 		- [Development and Complexity by Owen Barder](https://www.youtube.com/watch?v=02EZPxPcFqs)
@@ -102,7 +102,7 @@
 
 ## Week 10 (3/29)
 - Monday:
-	- Project 4
+	- Project 4 [Modeling & Predicting Spatial Values](https://tyler-frazier.github.io/dsbook/model.html#modeling--predicting-spatial-values)
 - Wednesday:
 	- Project 4
 - Friday:
