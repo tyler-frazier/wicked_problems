@@ -104,25 +104,31 @@
 - Monday:
 	- Project 4 [Modeling & Predicting Spatial Values](https://tyler-frazier.github.io/dsbook/model.html#modeling--predicting-spatial-values)
 - Wednesday:
-	- Project 4
+	- Project 4 [Modeling & Predicting Spatial Values](https://tyler-frazier.github.io/dsbook/model.html#modeling--predicting-spatial-values)
 - Friday:
-	- Project 4
+	- Project 4 [Modeling & Predicting Spatial Values](https://tyler-frazier.github.io/dsbook/model.html#modeling--predicting-spatial-values)
 
 ## Week 11 (4/5)
 - Monday:
-	- Project 4
+	- Project 4 [Modeling & Predicting Spatial Values](https://tyler-frazier.github.io/dsbook/model.html#modeling--predicting-spatial-values)
 - Wednesday: Spring Break Day, No Class (4/7)
 - Friday:
-	- Project 4
+	- Project 4 [Investigating and Comparing Results](https://tyler-frazier.github.io/dsbook/model.html#investigating-and-comparing-results)
 
 ## Week 12 (4/12)
 - Monday:
-	- Project 4
+	- Project 4 [Investigating and Comparing Results](https://tyler-frazier.github.io/dsbook/model.html#investigating-and-comparing-results)
 - Wednesday:
-	- Project 4
+	- Project 4 [Investigating and Comparing Results](https://tyler-frazier.github.io/dsbook/model.html#investigating-and-comparing-results)
 - Friday:
-	- Data Science Reflection #4
+  	- Project 4 [Investigating and Comparing Results](https://tyler-frazier.github.io/dsbook/model.html#investigating-and-comparing-results)
 - Sunday: Project 4 due at midnight
+	- Project 4 Deliverables:
+		- [Individual (Not Team) Challenge Question](https://tyler-frazier.github.io/dsbook/model.html#team-challenge-question-1)
+		- [Project 2. Individual Deliverable](https://tyler-frazier.github.io/dsbook/model.html#project-2-individual-deliverable)
+	- Project 4 Extra Credit:
+	  	- [Stretch Goal 1](https://tyler-frazier.github.io/dsbook/model.html#individual-stretch-goal-1-1)
+		- [Stretch Goal 2](https://tyler-frazier.github.io/dsbook/model.html#individual-stretch-goal-2)
 
 ## Week 13 (4/19)
 - Monday:
@@ -130,7 +136,8 @@
 - Wednesday:
 	- Project 5
 - Friday:
-	- Project 5
+	- Data Science Reflection #4
+	- [Scale by Geoff West](https://www.youtube.com/watch?v=02EZPxPcFqs)
 
 ## Week 14 (4/26)
 - Monday: Spring Break Day, No Class
