@@ -122,7 +122,7 @@
 	- Project 4 [Investigating and Comparing Results](https://tyler-frazier.github.io/dsbook/model.html#investigating-and-comparing-results)
 - Friday:
   	- Project 4 [Investigating and Comparing Results](https://tyler-frazier.github.io/dsbook/model.html#investigating-and-comparing-results)
-- Sunday: Project 4 due at midnight100
+- Sunday: Project 4 due at midnight
 	- Project 4 Deliverables:
 		- [Individual (Not Team) Challenge Question](https://tyler-frazier.github.io/dsbook/model.html#team-challenge-question-1)
 		- [Project 2. Individual Deliverable](https://tyler-frazier.github.io/dsbook/model.html#project-2-individual-deliverable)
@@ -137,7 +137,7 @@
 	- Project 5
 - Friday:
 	- Data Science Reflection #4
-	- [Scale by Geoff West](https://wmdsp.slack.com/files/U01JVGU7TGE/F01TP4Y055Y/west_scale.pdf)
+		- [Scale by Geoff West](https://wmdsp.slack.com/files/U01JVGU7TGE/F01TP4Y055Y/west_scale.pdf)
 
 ## Week 14 (4/26)
 - Monday: Spring Break Day, No Class
