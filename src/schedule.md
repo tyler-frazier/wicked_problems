@@ -122,7 +122,7 @@
 	- Project 4 [Investigating and Comparing Results](https://tyler-frazier.github.io/dsbook/model.html#investigating-and-comparing-results)
 - Friday:
   	- Project 4 [Investigating and Comparing Results](https://tyler-frazier.github.io/dsbook/model.html#investigating-and-comparing-results)
-- Sunday: Project 4 due at midnight
+- Sunday: Project 4 due at midnight100
 	- Project 4 Deliverables:
 		- [Individual (Not Team) Challenge Question](https://tyler-frazier.github.io/dsbook/model.html#team-challenge-question-1)
 		- [Project 2. Individual Deliverable](https://tyler-frazier.github.io/dsbook/model.html#project-2-individual-deliverable)
