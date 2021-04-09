@@ -137,7 +137,7 @@
 	- Project 5
 - Friday:
 	- Data Science Reflection #4
-	- [Scale by Geoff West](https://www.youtube.com/watch?v=02EZPxPcFqs)
+	- [Scale by Geoff West](https://wmdsp.slack.com/files/U01JVGU7TGE/F01TP4Y055Y/west_scale.pdf)
 
 ## Week 14 (4/26)
 - Monday: Spring Break Day, No Class
