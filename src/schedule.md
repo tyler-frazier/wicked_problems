@@ -145,7 +145,6 @@
 	- Project 5
 - Friday:
 	- Project 5 
-- Sunday: Project 5 due at midnight
 
 ## Week 15 (5/3)
 - Monday:
@@ -154,6 +153,12 @@
 	- Final Project
 - Friday: Last day of class
 	- Data Science Reflection #5
+	- Project 5 benchmark
+		- [Accessibility 1](https://tyler-frazier.github.io/dsbook/defacto_descript.html) 
+		- [Accessibility 2](https://tyler-frazier.github.io/dsbook/transport_health.html)
 	
 ## Final
 - Final Project is due on the last day of the finals period at 5PM.
+	- Combination of Accessibility 1, 2 & 3
+		- [Accessibility 3](https://tyler-frazier.github.io/dsbook/topography.html)
+			- [Deliverable for Final Project](https://tyler-frazier.github.io/dsbook/topography.html#project-4-individual-and-group-deliverable)
