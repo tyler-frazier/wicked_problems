@@ -5,8 +5,8 @@ Course Attribute: COLL 100
 Title: Wicked Problems: The New Data Paradigm and Emergent Human Development Processes    
 Credit Hours: 4  
 Meeting Times: 10:00 to 10:50 MWF  
-Location: Remote Synchronous Off-Campus  
-Date Range: Spring Semester 2021
+Location: ISC3 1111  
+Date Range: Fall Semester 2021
 
 # Course Description
 
